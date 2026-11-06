@@ -1,0 +1,14 @@
+import Link from "next/link";
+
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+
+
+export default function Section14(){return <SectionFrame id="ten-day-morocco-itinerary-marrakech" index={14} label="SLOWER & DEEPER" title="Why a 10-Day Morocco Tour Can Feel Better">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Ten days give you something that short tours cannot always provide: breathing space. Instead of arriving late and leaving early from every town, you may have time for a full medina visit, a mountain walk, a desert sunrise and a quiet afternoon. You can include special interests without forcing them into the gaps between long drives.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A typical longer route might begin with two days in Marrakech, move through the High Atlas and southern kasbah country, spend extra time around Merzouga and then continue north. Depending on the final airport, you could add Fes or choose more time in the south. The exact route should reflect your arrival and departure cities.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Longer tours can also be more comfortable for couples and families. An extra rest day means children have time for a pool or a relaxed meal, and older travelers are not constantly repacking. For photographers, staying two nights in one area creates better chances to enjoy both morning and evening light without counting on perfect timing during a transfer.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Our <Link href="/tour/morocco-itinerary-10-days-from-marrakech/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">10 days from Marrakech itinerary</Link> gives one example. A longer schedule is not automatically luxurious, but it can make the journey feel more thoughtful. Ask your agency how many nights are spent in each place and whether there are very long travel days hidden in the itinerary.</p>
+<div className="my-9 grid items-center gap-6 rounded-2xl border border-slate-200 bg-slate-50 p-4 sm:p-5 md:grid-cols-[1.1fr_.9fr]"><ArticlePhoto name="friends" compact/><div className="p-2"><p className="text-xs font-bold uppercase tracking-[.14em] text-amber-700">A closer look</p><h3 className="mt-3 text-2xl font-extrabold leading-tight text-[#102043]">Enjoy the journey, not only the destination</h3><p className="mt-4 text-[16px] leading-8 text-slate-700">Leave time to explore, ask questions and enjoy a stop without watching the clock. A good tour route feels comfortable on the road as well as at its highlights.</p></div></div>
+<FeatureCards items={[["More time", "Less pressure at important sights"], ["More choice", "Add food, crafts or a gentle walk"], ["Better rhythm", "Mix active and relaxed days"]]}/>
+</SectionFrame>;}

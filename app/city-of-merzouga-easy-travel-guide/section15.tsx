@@ -1,0 +1,14 @@
+import { ArticleSection, ArticleQuote } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+
+export default function Section15(){
+return <ArticleSection id="how-to-get-to-merzouga" label="GETTING HERE" title="How to Get to Merzouga from Marrakech, Fes and Errachidia">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">There are several ways to reach Merzouga, but the right choice depends on your starting city and the number of nights available. Travelers sometimes underestimate the drive because a map makes the desert look close. In reality, mountain roads, changing terrain and sightseeing stops mean that travel can fill much of the day. A comfortable road trip gives you time for meals, photos and rest.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">From Marrakech, a common route crosses the High Atlas and continues through <PlaceHoverCard place="ait-ben-haddou">Ait Ben Haddou</PlaceHoverCard>, <PlaceHoverCard place="ouarzazate">Ouarzazate</PlaceHoverCard>, the Dades Valley and <PlaceHoverCard place="todra-gorge">Todra Gorge</PlaceHoverCard>. The <Link href="/tour/3-days-desert-tour-from-marrakech-to-merzouga/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">three-day Marrakech–Merzouga tour</Link> is possible, but it includes long travel days and normally one desert camp night. If you can spare four days, you may find the pace more enjoyable. Travelers planning a full country visit can also explore our <Link href="/one-week-in-morocco-itinerary/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">one-week Morocco itinerary</Link>.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">From Fes, trips often pass Ifrane, cedar country, Midelt and the Ziz Valley before reaching Erfoud and Merzouga. Our <Link href="/tour/3-days-tour-from-fes-to-merzouga/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">three-day Fes-to-Merzouga itinerary</Link> explains this route, while another <Link href="/tour/3-days-from-fes-to-merzouga-desert/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">Fes desert tour via Erfoud</Link> gives a different overnight plan. From Errachidia, the final drive is much shorter; check flight schedules before deciding whether this option saves useful travel time.</p>
+<ArticlePhoto name="road" />
+<ArticleQuote>For a short holiday, the most relaxing desert tour is usually the one with the least unnecessary backtracking.</ArticleQuote>
+</ArticleSection>;
+}

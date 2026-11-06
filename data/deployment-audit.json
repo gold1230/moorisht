@@ -1,0 +1,11 @@
+{
+  "routes": 122,
+  "blogs": 33,
+  "tours": 17,
+  "changed_source_files": [],
+  "added_page_metadata": [],
+  "fixed_tour_canonical": [],
+  "json_slug_format": "canonical relative paths without leading slash",
+  "invalid_original_blogs": 7,
+  "invalid_original_tours": 20
+}

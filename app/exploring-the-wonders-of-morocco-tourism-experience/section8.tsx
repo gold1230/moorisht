@@ -1,0 +1,11 @@
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+export default function Section8(){
+  return <SectionFrame id={"rabat-casablanca-coast"} label={"ATLANTIC CITIES"} title={"Rabat and Casablanca: Two Very Different City Experiences"} index={8}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700"><PlaceHoverCard place="rabat">Rabat</PlaceHoverCard> is Morocco&apos;s capital, with pleasant streets, formal landmarks and historic neighborhoods close to the coast. The Kasbah of the Udayas is a lovely place for a walk, and the area around Hassan Tower introduces an important part of the city&apos;s history. Compared with Marrakech, the pace may feel calmer, especially during a well-planned daytime visit.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700"><PlaceHoverCard place="casablanca">Casablanca</PlaceHoverCard> offers a more modern urban atmosphere. Many travelers see the great Hassan II Mosque, explore Habous Quarter or spend time near the Atlantic waterfront. If you wish to visit the mosque&apos;s interior, check the visitor schedule and ticket rules rather than assuming access at any hour. Casablanca is also a practical flight gateway and can be the starting point for a north-to-south tour.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">You do not need to choose between these two cities if your route naturally passes through both. However, neither should become a hurried checklist stop just because it appears in a long itinerary. Our <Link href="/exploring-trusted-casablanca-travel-agency/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">Casablanca travel agency planning guide</Link> explains how to compare local visits and longer private trips.</p>
+<FeatureCards items={[["Rabat", "Capital-city landmarks, historic sites and a calm coastal atmosphere."], ["Casablanca", "Hassan II Mosque, modern neighborhoods and an international gateway."], ["Essaouira", "Atlantic air, fishing harbor, small galleries and an unhurried visit."], ["Tangier", "A northern city where sea views meet a fascinating old town."]]}/>
+  </SectionFrame>;
+}

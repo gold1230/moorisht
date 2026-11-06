@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+
+ /* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+} */
+
+
+/* @theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+} */
+:root {
+  --navbar-height: 80px;
+}
+
+
+/* Below-the-fold homepage sections do not need initial layout/paint work.
+   Chrome remembers actual sizes after the first render. */
+@supports (content-visibility: auto) {
+  main[data-page-type="homepage"] > :is(#popular-tours, #morocco-destinations, #traveler-reviews, #why-moorish-tour, #morocco-travel-guides, #plan-your-morocco-trip) {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 760px;
+  }
+}
+
+/* Native scroll-driven control, no hydration or scroll listener needed. */
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+@keyframes reveal-scroll-to-top {
+  from { opacity: 0; transform: translateY(10px) scale(.96); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+.scroll-to-top {
+  opacity: 1;
+  transform: none;
+}
+@supports (animation-timeline: scroll()) {
+  .scroll-to-top {
+    opacity: 0;
+    transform: translateY(10px) scale(.96);
+    will-change: opacity, transform;
+    animation: reveal-scroll-to-top linear both;
+    animation-timeline: scroll(root block);
+    animation-range: 300px 550px;
+  }
+}

@@ -1,0 +1,9 @@
+import Link from "next/link";
+import { SectionFrame, ArticleCTA } from "./ArticleElements";
+
+export default function Section23(){return <SectionFrame id="book-your-marrakech-trip-moorish-tour" index={23} label="PLAN YOUR NEXT TRIP" title="Explore Marrakech with Moorish Tour">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The best Marrakech journey is the one that feels right for you. You may want to wander through the medina, taste local food, spend a day in the mountains or watch the sun rise over distant desert dunes. Each experience offers something different, and there is no need to squeeze them all into a short schedule.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Start with your travel dates, number of guests, arrival airport, preferred budget and the places you most want to see. If you enjoy a slow pace, say so. If you are a photographer, traveling with children or hoping for a comfortable desert camp, mention that early. Those details help shape a practical tour with the right balance of sightseeing, time on the road and rest.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Browse our <Link href="/marrakech-desert-tours/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">Marrakech tour options</Link>, explore <Link href="/all-morocco-tours-packages/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">all available Morocco tour packages</Link> or <Link href="/contact/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">send Moorish Tour your travel plan</Link>. We can help you compare city activities and longer journeys, then confirm the precise inclusions in a written proposal before you decide.</p>
+<ArticleCTA/>
+</SectionFrame>;}

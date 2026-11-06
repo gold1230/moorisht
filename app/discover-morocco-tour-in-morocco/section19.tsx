@@ -1,0 +1,11 @@
+import { ArticleSection, ArticleNote } from "./ArticleElements";
+import Link from "next/link";
+
+export default function Section19(){
+return <ArticleSection id="family-couples-solo-and-photography-tours" label="WHO THIS TRIP SUITS" title="Discover Morocco for Couples, Families, Solo Travelers and Photographers">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Morocco offers different travel styles for different people. Couples often enjoy intimate riads, sunset viewpoints and a peaceful desert camp. Families may prefer comfortable private transport, rest breaks and easy cultural visits with room for children to explore safely. Solo travelers sometimes choose small group departures for company, while others prefer a private experience designed around personal interests. There is no single best itinerary for every guest.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For families, think about daily driving hours before choosing a desert route. Young children may enjoy seeing camels, watching local bread making and exploring historical sites, but repeated long car days can be tiring. Choose hotels with suitable beds and bathrooms, carry water and snacks and ask in advance about child seats. Desert activities should match each person&apos;s age and mobility, and camel rides can be replaced by other arrangements when available.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Photography lovers often value early morning and late afternoon stops, when light is softer. A dedicated photography day around Merzouga, Ait Ben Haddou or the Dades region may be more useful than adding another distant destination. Nature enthusiasts can also include birdwatching at suitable sites along the itinerary. If wildlife is part of your interests, see our <Link href="/bird-watching-tours-morocco/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">birdwatching tours guide</Link> for seasonal ideas and responsible viewing tips.</p>
+<ArticleNote title="Travel at the pace that fits you"><p>Tell Moorish Tour if you need shorter drives, wheelchair-accessible facilities, a quieter camp, additional photography stops or a tour suitable for children. The right itinerary is the one your whole group can enjoy comfortably.</p></ArticleNote>
+</ArticleSection>;
+}

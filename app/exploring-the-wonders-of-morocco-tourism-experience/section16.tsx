@@ -1,0 +1,9 @@
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+export default function Section16(){
+  return <SectionFrame id={"markets-handicrafts-and-people"} label={"EVERYDAY CULTURE"} title={"Souks, Crafts and Respectful Local Encounters"} index={16}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Markets can be full of color and noise, but they are also places where daily work happens. Watch someone shape metal, weave cloth or prepare a display of fresh produce, and you begin to notice the care behind familiar objects. Every city has its own specialties, and part of the fun is seeing how the streets change as you walk from one craft area to another.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Bargaining may be normal in some souvenir shops, but not every price is open to discussion. Stay friendly, agree on the total before paying, and never feel obliged to buy something just because you entered a store. An honest guide will give you time to browse and help explain when a visit is educational rather than a sales appointment.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Respect matters as much as curiosity. Ask before taking a portrait, dress with awareness when visiting traditional areas, and remember that religious buildings have different rules for visitors. Small gestures, like greeting people politely and giving a shopkeeper space when they are busy, help make travel pleasant for everyone.</p>
+<FeatureCards items={[["Craft workshops", "Learn how pottery, leatherwork and metalwork are made."], ["Local food", "Taste regional dishes and ask about family recipes."], ["Music and storytelling", "Discover traditional forms of expression when events are available."], ["Everyday hospitality", "Enjoy a calm cup of tea and an honest conversation."]]}/>
+  </SectionFrame>;
+}

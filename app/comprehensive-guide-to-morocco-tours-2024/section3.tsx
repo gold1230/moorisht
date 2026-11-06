@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, CompareTable } from "./ArticleElements";
+export default function Section3(){
+return <SectionFrame id="choose-tour-length" label="TRIP LENGTH" title="Three Days, One Week or Two Weeks: How Long Is Enough?" index={3}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The right number of days depends on what you want to see. Three days can be wonderful for one city and a nearby excursion. Seven days can connect Marrakech, the High Atlas and the Sahara. Ten to fourteen days allow more time for the north, imperial cities and coast. Trying to do everything in one short holiday usually creates too many hours in the vehicle.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Think about <strong className="font-extrabold text-[#102043]">nights, not only days</strong>. An evening arrival and an early departure can take two calendar days off the time you have for sightseeing. Families with young children and travelers who want a gentle pace should also allow a little extra breathing room.</p>
+<CompareTable headings={["Length", "Best use", "What to know"]} rows={[["3–4 days", "A city break or one focused region", "Usually too short for a relaxed multi-city Sahara circuit"], ["5–7 days", "One regional route or a south-Morocco loop", "Choose fewer stops and plan overnight locations carefully"], ["8–10 days", "Cities plus a Sahara circuit", "Allows a mix of culture, scenery and travel days"], ["12–14 days", "Northern cities, desert, mountains and perhaps coast", "More comfortable for a wider cross-country route"]]}/>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">If you are unsure, browse our <Link href="/one-week-in-morocco-itinerary/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">one-week travel inspiration</Link> and compare it with <Link href="/tour/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">longer Morocco tour ideas</Link>. A route with a little free time often feels richer than a packed one.</p>
+</SectionFrame>;
+}

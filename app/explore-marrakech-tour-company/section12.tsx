@@ -1,0 +1,11 @@
+import Link from "next/link";
+import { SectionFrame, Timeline } from "./ArticleElements";
+
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section12(){return <SectionFrame id="three-day-sahara-desert-itinerary-marrakech" index={12} label="GO BEYOND THE CITY" title="A Separate 3-Day Sahara Tour from Marrakech">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A three-day Merzouga itinerary starts with an early departure from Marrakech. The first day is a scenic road journey over the mountains and through the south, commonly ending with a night around the Dades area. There is time for viewpoint stops and historic places, but the road is long, and a realistic schedule should make that clear from the start.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">On day two, the route continues through rocky valleys toward the Sahara. Travelers may have a chance for a short walk in a gorge before arriving beside the dunes later in the day. An overnight desert camp is often the highlight, with dinner and the chance to see the changing colors of the sand around sunset and sunrise.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Day three is usually a substantial return drive to Marrakech. If you prefer less time in the vehicle, ask about a four-day journey or a different finish such as Fes. The route is not the same as spending three days sightseeing in Marrakech. Explore our <Link href="/tour/4-days-tour-from-marrakech-to-merzouga/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">four-day Marrakech-to-Merzouga tour options</Link> and <Link href="/tour/4-days-tour-from-marrakech-to-fes/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">Marrakech to Fes desert routes</Link> as possible alternatives, subject to the current itinerary details.</p>
+<ArticlePhoto name="sahara"/>
+<Timeline items={[["Day 1 – Marrakech to the southern valleys", "Cross the High Atlas; visit a kasbah and sleep near Dades."], ["Day 2 – Valleys to Merzouga", "Travel through gorges and desert towns; arrive for a dune experience and camp night."], ["Day 3 – Return or onward route", "Sunrise and a long return to Marrakech, or an agreed one-way finish."]]}/>
+</SectionFrame>;}

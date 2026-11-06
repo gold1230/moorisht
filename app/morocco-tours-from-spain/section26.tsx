@@ -1,0 +1,9 @@
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+export default function Section26(){
+  return <SectionFrame id={"common-planning-mistakes"} label={"SAVE YOURSELF TIME"} title={"Common Mistakes Travelers Make When Booking from Spain"} index={26}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The most common mistake is choosing too many far-apart destinations for the number of days available. A three-day tour that claims to show all of Morocco will involve exhausting transfers. Another mistake is assuming that every ferry arrives in the same Tangier terminal; an incorrect pickup point can waste hours at the start of a holiday.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Travelers also sometimes forget to check the return journey. If you start in Tangier and finish in Marrakech, you either need a flight from Marrakech or enough time to travel back north. Booking a return ferry before checking the full route can turn a good itinerary into a complicated one.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Finally, confirm what “guided tour” means. Sometimes it describes a driver with occasional local guides; elsewhere it means an accompanying guide throughout. Neither is necessarily wrong, but they are different services. A short written summary of inclusions and exclusions can prevent most misunderstandings.</p>
+<FeatureCards items={[["The wrong port", "Tangier Med is outside the city; pickup instructions must be exact."], ["Too many cities", "A short visit is not enough for Tangier, Fes, Marrakech and the Sahara."], ["Unplanned return", "A one-way route needs a suitable airport or sufficient time to return north."], ["Unclear inclusions", "Confirm whether city guides, food, camp transfers and tickets are covered."]]}/>
+  </SectionFrame>;
+}

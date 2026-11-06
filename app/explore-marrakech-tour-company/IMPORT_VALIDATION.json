@@ -1,0 +1,26 @@
+{
+  "file_count": 35,
+  "typescript_files": 31,
+  "main_sections": 23,
+  "photos_used": [
+    "atlasroad",
+    "camp",
+    "group",
+    "kasbah",
+    "marrakechjourney",
+    "sahara",
+    "village"
+  ],
+  "image_imports": 7,
+  "toc_links": 23,
+  "contextual_links": 27,
+  "heroicons": [
+    "ArrowRightIcon",
+    "CheckCircleIcon",
+    "MapPinIcon",
+    "LightBulbIcon"
+  ],
+  "unused_import_bindings": 0,
+  "local_relative_import_paths_resolved": true,
+  "note": "Project build not verified; actual public image assets are not bundled. Run npm run build after copying this folder."
+}

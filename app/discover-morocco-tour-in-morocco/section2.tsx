@@ -1,0 +1,15 @@
+import { ArticleSection, ArticleQuote, ArticleTable } from "./ArticleElements";
+import { tables } from "./tables";
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+
+export default function Section2(){
+return <ArticleSection id="why-choose-a-discover-morocco-tour" label="WHY THIS JOURNEY" title="Why Choose a Discover Morocco Tour With a Local Travel Team?">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The beauty of a Discover Morocco tour comes from the contrast between places. In <PlaceHoverCard place="casablanca">Casablanca</PlaceHoverCard> you can see wide avenues and a modern Atlantic city. In the old quarters of Fes you can watch artisans work in narrow lanes, while in the <PlaceHoverCard place="high-atlas-mountains">High Atlas Mountains</PlaceHoverCard> the road passes small communities built into steep valleys. Around the desert, the pace changes again. A short walk, a mint tea break or an evening by the dunes can become a favorite part of the holiday because there is time to enjoy it.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Working with local travel planners also helps make the route more realistic. Morocco is large, and the distance between popular places can be greater than visitors expect. Driving from Marrakech to <PlaceHoverCard place="merzouga">Merzouga</PlaceHoverCard> takes much of a day, and a three-day return journey leaves less time for sightseeing than a seven-day or longer itinerary. We encourage guests to look at the number of nights, not only the list of destinations. Fewer hotel changes and a sensible overnight stop often make the experience more pleasant.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Our approach is to discuss your arrival and departure cities, the number of travelers, accommodation preferences, accessibility needs and main interests before proposing a journey. A route can emphasize food and architecture, desert scenery, photography or easy outdoor experiences. Learn how to <Link href="/plan-your-morocco-tour" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">plan a private Morocco itinerary</Link> if you prefer to choose your route with local help.</p>
+<ArticleQuote>A good Morocco trip is not measured only by how many cities you visit. It is measured by how much time you have to enjoy them.</ArticleQuote>
+<ArticleTable headings={tables.styles.headings} rows={tables.styles.rows} />
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The goal is not to make every journey identical. A city lover may spend extra nights in Marrakech and Fes, while a traveler interested in quiet landscapes may choose more time around the High Atlas, the <PlaceHoverCard place="dades-valley">Dades Valley</PlaceHoverCard> and Merzouga. Comparing <Link href="/tour/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">private and multi-day tours</Link> helps you find the right balance for your group.</p>
+</ArticleSection>;
+}

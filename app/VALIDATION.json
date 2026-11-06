@@ -1,0 +1,14 @@
+{
+  "status": "PASSED",
+  "checked_at": "2026-10-14",
+  "tsx_ts_files": 8,
+  "import_bindings_checked": 42,
+  "locally_bundled_webp_images": 6,
+  "relative_image_imports": 11,
+  "route_paths": [
+    "/activity/",
+    "/activity/camel-trekking-in-the-desert/",
+    "/activity/quad-biking-in-marrakech-and-merzouga/"
+  ],
+  "issues": []
+}

@@ -1,0 +1,18 @@
+import PlaceHoverCard from "@/Compentents/placeCard";
+import { ArticleSection, ArticlePicture, TravelNote, TravelQuote } from "./ArticleElements";
+import IntroImage from "@/public/blog/content/travelers-exploring-morocco-on-a-desert-journey-viewpoint.jpg";
+
+export default function Section1() {
+  return (
+    <ArticleSection id="3-days-in-morocco-tours-ideas-and-travel-tips" label="Start Here" title="3 Days in Morocco: Tours, Ideas, and Travel Tips" first>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Morocco is full of color, culture, history, and landscapes that can feel completely different from one place to the next. Even if you have only <strong className="font-bold text-slate-900">3 days in Morocco</strong>, you can enjoy a memorable journey. You might spend your time exploring the old streets of <PlaceHoverCard place="marrakech">Marrakech</PlaceHoverCard>, travel from <PlaceHoverCard place="fes">Fes</PlaceHoverCard> toward the Sahara, or take a peaceful break among the <PlaceHoverCard place="high-atlas-mountains">Atlas Mountains</PlaceHoverCard> and local villages. The secret is choosing a route that fits the time you really have, instead of trying to visit the whole country in one long weekend.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">At Moorish Tour, we help travelers turn a short holiday into a personal experience. A <strong className="font-bold text-slate-900">3 day Morocco tour</strong> can include historic monuments, Moroccan food, traditional markets, beautiful mountain viewpoints, or a night beneath the stars near <PlaceHoverCard place="merzouga">Merzouga</PlaceHoverCard>. What you can enjoy depends mainly on where you begin your trip and whether your three days are full sightseeing days or include your arrival and departure flights.</p>
+      <ArticlePicture src={IntroImage} alt="Travelers looking across beautiful scenery during a short Morocco tour" caption="A short Morocco journey works best when you choose one main region and enjoy it at a comfortable pace." />
+      <TravelNote title="The most important planning tip"><p>If you have only three days including airport arrival and departure, choose a city-focused itinerary or a nearby mountain or coastal excursion. A Marrakech–Merzouga–Marrakech desert circuit normally uses three full travel days and includes long periods on the road.</p></TravelNote>
+      <h3 className="mt-10 text-2xl font-bold leading-tight text-[#102043] sm:text-3xl">Can you really enjoy Morocco in three days?</h3>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Yes, especially when the itinerary has a clear purpose. Some guests want colorful souks, palaces, gardens, and local food. Others dream about camel trekking through the golden dunes of <PlaceHoverCard place="erg-chebbi">Erg Chebbi</PlaceHoverCard>. Families may prefer shorter drives and easy activities, while photographers might choose scenic roads and sunrise or sunset stops. Each of these can make a wonderful short trip, but they should not all be forced into the same three-day schedule.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">In this guide, you will find the best 3 days in Morocco ideas, sample daily itineraries, suggestions from Marrakech, Fes, and Casablanca, travel tips, budgeting advice, seasonal information, and links to Moorish Tour experiences. Use the guide to choose a realistic route and then ask our local team to adjust the details to your travel dates and interests.</p>
+      <TravelQuote>Three good days in one part of Morocco can be more rewarding than three rushed days trying to see the entire country.</TravelQuote>
+    </ArticleSection>
+  );
+}

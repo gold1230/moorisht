@@ -1,0 +1,12 @@
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+import { SectionFrame, QuotePanel } from "./ArticleElements";
+
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section10(){return <SectionFrame id="marrakech-to-merzouga-sahara-tour" index={10} label="THE BIG ADVENTURE" title="Marrakech to Merzouga: What a Real Desert Tour Feels Like">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The road from Marrakech toward Merzouga is one of the most memorable routes in southern Morocco. Leaving the city behind, you climb toward high mountain landscapes, pass communities built against hillsides and gradually see the colors change. The dry open spaces and palm valleys farther south feel very different from the busy souks of Marrakech.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">On many routes, the journey crosses the <PlaceHoverCard place="tizi-ntichka">Tizi n’Tichka Pass</PlaceHoverCard> and continues toward <PlaceHoverCard place="ait-ben-haddou">Ait Ben Haddou</PlaceHoverCard>, a beautiful ksar built from earthen materials. Farther along, valleys and rock formations invite scenic stops. Depending on the tour, you may also visit <PlaceHoverCard place="todra-gorge">Todra Gorge</PlaceHoverCard> before the final approach to the dunes.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Near Merzouga, the famous desert experience often includes a sunset camel trek or a different transfer to camp, followed by dinner and a night in the Sahara. There may be traditional music, time for stargazing and an early sunrise. Find out more about the activity itself in our <Link href="/activity/camel-trekking-in-the-desert/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">Sahara camel trekking guide</Link>. These moments are special because the journey has been given enough time. Read the <Link href="/3-days-desert-tour-from-marrakech-to-merzouga/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">three-day Marrakech-to-Merzouga route</Link> for a more detailed look at the road and its long driving days.</p>
+<ArticlePhoto name="kasbah"/>
+<QuotePanel>The Sahara feels most special when you leave time for silence rather than adding one more rushed stop.</QuotePanel>
+</SectionFrame>;}

@@ -1,0 +1,9 @@
+import PlaceHoverCard from "@/Compentents/placeCard";
+import {SectionFrame,CompareTable} from "./ArticleElements";
+import {tables} from "./tables";
+export default function Section14(){return <SectionFrame id="tamouda-bay-mediterranean-luxury" index={14} label="A NORTHERN ESCAPE" title="Tamouda Bay and the Mediterranean Coast">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Northern Morocco offers a different kind of luxury. The Mediterranean coastline near Tetouan has resort-style stays, sandy beaches and easy access to historic towns. <strong className="font-bold text-[#102043]">Banyan Tree Tamouda Bay</strong> is one recognized example of a private-pool-villa luxury resort in this area. <strong className="font-bold text-[#102043]">Royal Mansour Tamuda Bay</strong> is another high-end coastal option. They provide useful inspiration for travelers who want a restful beach experience rather than a city-and-desert road trip.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A Mediterranean stay makes particular sense when your arrival is in Tangier or when you want to combine the north with a short cultural visit. From the coast, you may consider visiting the historic city of Tetouan or continuing to <PlaceHoverCard place="chefchaouen">Chefchaouen</PlaceHoverCard>, famous for its blue-painted streets. Travel times and hotel availability should guide the plan, especially for a short holiday.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The Mediterranean and Atlantic coasts are different. Do not confuse a north-coast resort with a beach hotel near Agadir or Essaouira when choosing your route. Confirm the actual hotel location, beach access, room category and seasonal facilities. If your trip is mainly about the Sahara dunes, a Mediterranean beach stay may fit better in a longer itinerary.</p>
+<CompareTable headings={tables.coast.headings} rows={tables.coast.rows}/>
+</SectionFrame>;}

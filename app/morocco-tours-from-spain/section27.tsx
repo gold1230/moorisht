@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, Checklist } from "./ArticleElements";
+export default function Section27(){
+  return <SectionFrame id={"choosing-tour-agency"} label={"BEFORE YOU PAY"} title={"How to Choose a Reliable Morocco Tour Organizer"} index={27}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A reliable tour organizer should listen to the kind of trip you want and explain what is realistic. Ask for an itinerary that names overnight cities, gives a sense of driving days and shows exactly where your pickup and drop-off happen. Clear answers are usually more useful than dramatic promises of luxury or perfect weather.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">It is reasonable to ask for accommodation details, the vehicle type, whether the driver speaks your preferred language, what happens if a ferry is delayed and how last-minute changes are handled. Look for a sensible cancellation policy and a clear payment method. Independent reviews can be helpful, but also examine whether the written tour proposal answers your own questions.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">You can <Link href="/contact/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">contact Moorish Tour</Link> for a practical route based on your available time in Spain, your entry point and the places you most want to see. The team can discuss the plan; what is actually included should always be confirmed in the quote and booking details.</p>
+<Checklist items={["Exact pickup and drop-off point, including ferry port", "Overnight cities and estimated long driving days", "Vehicle type, group size and language support", "Names or categories of accommodations and camp facilities", "Meals, local guides, entrance fees and optional activities", "Total price, payment method and cancellation policy", "How delays, bad weather and itinerary changes are handled"]}/>
+  </SectionFrame>;
+}

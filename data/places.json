@@ -1,0 +1,278 @@
+{
+  "marrakech": {
+    "title": "Marrakech",
+    "href": "/locations/marrakech/",
+    "description": "Marrakech is one of Morocco’s historic imperial cities, known for its medina, colorful souks, Jemaa el-Fnaa square, traditional riads and gardens.",
+    "image": "/locations/marrakech.jpg"
+  },
+  "fes": {
+    "title": "Fes",
+    "href": "/locations/fes/",
+    "description": "Fes is one of Morocco’s oldest imperial cities, famous for its historic medina, traditional crafts, ancient madrasas, narrow streets and rich cultural heritage.",
+    "image": "/locations/fes.jpg"
+  },
+  "casablanca": {
+    "title": "Casablanca",
+    "href": "/locations/casablanca/",
+    "description": "Casablanca is Morocco’s largest city and an important economic center, known for the Hassan II Mosque, Atlantic coastline, modern neighborhoods and international connections.",
+    "image": "/locations/casablanca.jpg"
+  },
+  "tangier": {
+    "title": "Tangier",
+    "href": "/locations/tangier/",
+    "description": "Tangier is a historic port city in northern Morocco overlooking the Strait of Gibraltar, known for its medina, coastal views, international history and easy access to northern Morocco.",
+    "image": "/locations/tangier.jpg"
+  },
+  "rabat": {
+    "title": "Rabat",
+    "href": "/locations/rabat/",
+    "description": "Rabat is the capital of Morocco and one of the country’s imperial cities, known for the Hassan Tower, Kasbah of the Udayas, royal landmarks and Atlantic coastline.",
+    "image": "/locations/rabat.jpg"
+  },
+  "chefchaouen": {
+    "title": "Chefchaouen",
+    "href": "/locations/chefchaouen/",
+    "description": "Chefchaouen is a mountain town in northern Morocco famous for its blue-painted medina, relaxed atmosphere, traditional streets and Rif Mountain surroundings.",
+    "image": "/locations/chefchaouen.jpg"
+  },
+  "ouarzazate": {
+    "title": "Ouarzazate",
+    "href": "/locations/ouarzazate/",
+    "description": "Ouarzazate is a city in southern Morocco known for historic kasbahs, film studios and its position between the High Atlas Mountains and the Sahara routes.",
+    "image": "/locations/ouarzazate.jpg"
+  },
+  "essaouira": {
+    "title": "Essaouira",
+    "href": "/locations/essaouira/",
+    "description": "Essaouira is a relaxed Atlantic coastal city known for its historic medina, fishing port, beaches, traditional architecture and strong artistic atmosphere.",
+    "image": "/locations/essaouira.jpg"
+  },
+  "agadir": {
+    "title": "Agadir",
+    "href": "/locations/agadir/",
+    "description": "Agadir is a modern coastal city in southern Morocco known for its long beach, marina, seaside resorts, pleasant climate and access to the Souss region.",
+    "image": "/locations/agadir.jpg"
+  },
+  "meknes": {
+    "title": "Meknes",
+    "href": "/locations/meknes/",
+    "description": "Meknes is one of Morocco’s imperial cities, known for monumental gates, historic architecture, traditional markets and its location close to Volubilis.",
+    "image": "/locations/meknes.jpg"
+  },
+  "ifrane": {
+    "title": "Ifrane",
+    "href": "/locations/ifrane/",
+    "description": "Ifrane is a mountain town in the Middle Atlas known for clean streets, alpine-style architecture, forests and cooler temperatures.",
+    "image": "/locations/ifrane.jpg"
+  },
+  "midelt": {
+    "title": "Midelt",
+    "href": "/locations/midelt/",
+    "description": "Midelt is a town between the Middle Atlas and High Atlas Mountains and is a common stop on routes connecting Fes with Merzouga and the Sahara.",
+    "image": "/locations/midelt.jpg"
+  },
+  "erfoud": {
+    "title": "Erfoud",
+    "href": "/locations/erfoud/",
+    "description": "Erfoud is a desert gateway town in southeastern Morocco known for fossils, date palms and its location close to Rissani and the Merzouga dunes.",
+    "image": "/locations/erfoud.jpg"
+  },
+  "rissani": {
+    "title": "Rissani",
+    "href": "/locations/rissani/",
+    "description": "Rissani is a historic town near Merzouga known for its traditional market, desert culture, regional trade and important place in the history of southeastern Morocco.",
+    "image": "/locations/rissani.jpg"
+  },
+  "merzouga": {
+    "title": "Merzouga",
+    "href": "/city-of-merzouga-easy-travel-guide/",
+    "description": "Merzouga is a desert village in southeastern Morocco beside the Erg Chebbi dunes, known for camel trekking, Sahara camps, sunsets and sunrise experiences.",
+    "image": "/locations/merzouga.jpg"
+  },
+  "erg-chebbi": {
+    "title": "Erg Chebbi",
+    "href": "/locations/erg-chebbi/",
+    "description": "Erg Chebbi is the famous golden Sahara dune field beside Merzouga, known for camel trekking, desert camps, sunset and sunrise experiences.",
+    "image": "/locations/erg-chebbi.jpg"
+  },
+  "ait-ben-haddou": {
+    "title": "Ait Ben Haddou",
+    "href": "/locations/ait-ben-haddou/",
+    "description": "Ait Ben Haddou is a historic fortified settlement in southern Morocco. The Ksar of Ait-Ben-Haddou is a UNESCO World Heritage Site.",
+    "image": "/locations/ait-ben-haddou.jpg"
+  },
+  "dades-valley": {
+    "title": "Dades Valley",
+    "href": "/locations/dades-valley/",
+    "description": "Dades Valley is a scenic region in southern Morocco known for traditional villages, kasbahs, dramatic rock formations and mountain landscapes.",
+    "image": "/locations/dades-valley.jpg"
+  },
+  "todra-gorge": {
+    "title": "Todra Gorge",
+    "href": "/locations/todra-gorges/",
+    "description": "Todra Gorge is a dramatic canyon in southern Morocco known for its high limestone walls and scenic walking area.",
+    "image": "/locations/todra-gorge.jpg"
+  },
+  "tinghir": {
+    "title": "Tinghir",
+    "href": "/locations/tinghir/",
+    "description": "Tinghir is an oasis town in southern Morocco surrounded by palm groves and rocky landscapes and is the main gateway to Todra Gorge.",
+    "image": "/locations/tinghir.jpg"
+  },
+  "high-atlas-mountains": {
+    "title": "High Atlas Mountains",
+    "href": "/locations/high-atlas-mountains/",
+    "description": "The High Atlas Mountains form Morocco’s largest mountain range and create a spectacular route between Marrakech and southern Morocco.",
+    "image": "/locations/high-atlas-mountains.jpg"
+  },
+  "tizi-ntichka": {
+    "title": "Tizi n'Tichka Pass",
+    "href": "/locations/tizi-ntichka/",
+    "description": "Tizi n'Tichka is a high mountain pass on the road between Marrakech and Ouarzazate, known for winding roads and panoramic High Atlas views.",
+    "image": "/locations/tizi-n-tichka.jpg"
+  },
+  "skoura": {
+    "title": "Skoura",
+    "href": "/locations/skoura/",
+    "description": "Skoura is a peaceful oasis in southern Morocco known for palm groves, traditional kasbahs and its location between Ouarzazate and the Dades Valley.",
+    "image": "/locations/skoura.jpg"
+  },
+  "rose-valley": {
+    "title": "Rose Valley",
+    "href": "/locations/rose-valley/",
+    "description": "Rose Valley is a scenic area near Kelaat M'Gouna known for rose cultivation, traditional villages, valley landscapes and Morocco’s annual rose season.",
+    "image": "/locations/rose-valley.jpg"
+  },
+  "kelaat-mgouna": {
+    "title": "Kelaat M'Gouna",
+    "href": "/locations/kelaat-mgouna/",
+    "description": "Kelaat M'Gouna is a town in southern Morocco known as a gateway to the Rose Valley and for its annual rose festival and local rose products.",
+    "image": "/locations/kalaat-mgouna.jpg"
+  },
+  "zagora": {
+    "title": "Zagora",
+    "href": "/locations/zagora/",
+    "description": "Zagora is a desert town in the Draa Valley and a popular starting point for shorter desert journeys, palm-oasis landscapes and southern Morocco adventures.",
+    "image": "/locations/ouarzazate.jpg"
+  },
+  "draa-valley": {
+    "title": "Draa Valley",
+    "href": "/locations/draa-valley/",
+    "description": "Draa Valley is one of southern Morocco’s most famous oasis regions, known for palm groves, traditional villages, kasbahs and desert landscapes.",
+    "image": "/locations/ouarzazate.jpg"
+  },
+  "khamlia": {
+    "title": "Khamlia",
+    "href": "/locations/khamlia/",
+    "description": "Khamlia is a village near Merzouga known for its connection with Gnawa musical traditions and the cultural heritage of southeastern Morocco.",
+    "image": "/locations/khamlia.jpg"
+  },
+  "asilah": {
+    "title": "Asilah",
+    "href": "/locations/asilah/",
+    "description": "Asilah is a small Atlantic coastal town in northern Morocco known for its whitewashed medina, colorful murals, seaside atmosphere and historic walls.",
+    "image": "/locations/asilah.jpg"
+  },
+  "tetouan": {
+    "title": "Tetouan",
+    "href": "/locations/tetouan/",
+    "description": "Tetouan is a historic northern Moroccan city known for its medina, Andalusian influence, traditional architecture and proximity to the Mediterranean coast.",
+    "image": "/locations/tetouan.jpg"
+  },
+  "taroudant": {
+    "title": "Taroudant",
+    "href": "/locations/taroudant/",
+    "description": "Taroudant is a historic walled city in the Souss Valley known for traditional markets, red city walls and a quieter atmosphere than Marrakech.",
+    "image": "/locations/taroudant.jpg"
+  },
+  "ourika-valley": {
+    "title": "Ourika Valley",
+    "href": "/locations/ourika-valley/",
+    "description": "Ourika Valley is a popular mountain escape near Marrakech known for rivers, traditional villages, mountain scenery and access to the High Atlas.",
+    "image": "/locations/ourika-valley.jpg"
+  },
+  "volubilis": {
+    "title": "Volubilis",
+    "href": "/locations/volubilis/",
+    "description": "Volubilis is an important archaeological site near Meknes known for Roman ruins, mosaics, columns and its UNESCO World Heritage status.",
+    "image": "/locations/volubilis.jpg"
+  },
+  "imlil": {
+    "title": "Imlil",
+    "href": "/locations/imlil/",
+    "description": "Imlil is a mountain village in Morocco’s High Atlas Mountains, known as a popular base for hiking, traditional Berber villages, scenic valleys and routes toward Mount Toubkal.",
+    "image": "/locations/imlil.jpg"
+  },
+  "agdez": {
+    "title": "Agdez",
+    "href": "/locations/agdez/",
+    "description": "Agdez is a small town at the northern entrance of the Draa Valley, known for palm groves, traditional kasbahs, mountain scenery and its location on the route between Ouarzazate and Zagora.",
+    "image": "/locations/ouarzazate.jpg"
+  },
+  "tamegroute": {
+    "title": "Tamegroute",
+    "href": "/locations/tamegroute/",
+    "description": "Tamegroute is a historic village near Zagora in southern Morocco, known for its old religious library, traditional green pottery, desert culture and location along the Draa Valley route.",
+    "image": "/locations/ouarzazate.jpg"
+  },
+  "ouzoud-waterfalls": {
+    "title": "Ouzoud Waterfalls",
+    "href": "/locations/ouzoud-waterfalls/",
+    "description": "Ouzoud Waterfalls are among Morocco’s best-known natural attractions, famous for high cascades, green valley scenery, walking paths, viewpoints and a peaceful countryside setting.",
+    "image": "/locations/ourika-valley.jpg"
+  },
+  "ziz-valley": {
+    "title": "Ziz Valley",
+    "href": "/locations/ziz-valley/",
+    "description": "Ziz Valley is a long oasis valley in southeastern Morocco known for palm groves, dramatic viewpoints, traditional settlements and its position on routes toward Erfoud and Merzouga.",
+    "image": "/locations/erfoud.jpg"
+  },
+  "kasbah-tadla": {
+    "title": "Kasbah Tadla",
+    "href": "/locations/kasbah-tadla/",
+    "description": "Kasbah Tadla is a historic town in central Morocco on the route between the Middle Atlas region and the Atlantic side of the country, known for its regional history and surrounding agricultural landscapes.",
+    "image": "/locations/meknes.jpg"
+  },
+  "imilchil": {
+    "title": "Imilchil",
+    "href": "/locations/imilchil/",
+    "description": "Imilchil is a mountain town in Morocco’s High Atlas known for traditional villages, remote valleys, cooler mountain landscapes and its strong Amazigh cultural heritage.",
+    "image": "/locations/high-atlas-mountains.jpg"
+  },
+  "errachidia": {
+    "title": "Errachidia",
+    "href": "/locations/errachidia/",
+    "description": "Errachidia is a city in southeastern Morocco and an important gateway to the Ziz Valley, Tafilalet region and routes toward Erfoud and Merzouga.",
+    "image": "/locations/midelt.jpg"
+  },
+  "ait-atta-villages": {
+    "title": "Ait Atta Villages",
+    "href": "/locations/ait-atta-villages/",
+    "description": "Ait Atta villages in southeastern Morocco are connected with Amazigh cultural heritage and are found across rural mountain and valley landscapes around the wider Dades and Jbel Saghro regions.",
+    "image": "/locations/dades-valley.jpg"
+  },
+  "demnate": {
+    "title": "Demnate",
+    "href": "/locations/demnate/",
+    "description": "Demnate is a historic town east of Marrakech near the Atlas foothills, known for surrounding Amazigh villages, mountain landscapes and geological attractions in the wider region.",
+    "image": "/locations/ait-ben-haddou.jpg"
+  },
+  "middle-atlas": {
+    "title": "Middle Atlas Mountains",
+    "href": "/locations/azrou/",
+    "description": "The Middle Atlas is a mountain region in central Morocco known for cedar forests, high plateaus, mountain towns, rural communities and scenic roads between Fes and southeastern Morocco.",
+    "image": "/locations/ifrane.jpg"
+  },
+  "azrou": {
+    "title": "Azrou",
+    "href": "/locations/azrou/",
+    "description": "Azrou is a small town in the Middle Atlas region of Morocco, known for its traditional architecture and scenic mountain views.",
+    "image": "/locations/ifrane.jpg"
+  },
+  "agafay-desert": {
+    "title": "Agafay Desert",
+    "href": "/marrakech-desert-tours/",
+    "description": "Agafay is a rocky desert-like landscape near Marrakech, popular for sunset views, outdoor dining and short excursions. It does not contain the tall Sahara dunes of Merzouga.",
+    "image": "/tours/related/4-days-tour-from-marrakech-to-merzouga.jpg"
+  }
+}

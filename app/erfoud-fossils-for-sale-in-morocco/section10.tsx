@@ -1,0 +1,9 @@
+import Link from "next/link";
+import {SectionFrame} from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section10(){return <SectionFrame id="how-erfoud-fossil-workshops-prepare-stone" index={10} label="IN THE WORKSHOP" title="How Erfoud Fossil Workshops Prepare Stone">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">One of the most enjoyable parts of visiting Erfoud is watching a workshop in action. The process can start with a rough block that gives little away about what is hidden inside. The worker examines the surface, chooses a direction for cutting and begins carefully exposing the features that make the fossil interesting. Delicate specimens may require slow, detailed preparation using specialist tools.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Decorative workshops handle stone differently. Workers cut slabs, shape edges, polish surfaces and sometimes assemble pieces into tables, sinks or ornaments. Some processes make a natural fossil easier to see; others are about creating a finished home object. During a visit, it is worth asking which steps are cleaning, which are restoration and which are decorative fabrication.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A respectful workshop visit is also an opportunity to appreciate local skill. Ask before taking photographs, keep your hands away from cutting machines and allow workers to explain the process without interrupting. If you are touring the area, a stop can fit naturally into an <Link href="/erfoud-sahara-tours-4x4-desert-vehicles/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">Erfoud-to-Merzouga excursion</Link>.</p>
+<ArticlePhoto name="workshop"/>
+</SectionFrame>;}

@@ -1,0 +1,8 @@
+import {SectionFrame,CompareTable} from "./ArticleElements";
+import {tables} from "./tables";
+export default function Section21(){return <SectionFrame id="private-vs-small-group-luxury" index={21} label="WHICH STYLE FITS?" title="Private Luxury Tours vs Small-Group Travel">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A private tour offers the greatest flexibility. The vehicle and daily schedule are arranged for your party, so you may be able to stop for photographs, choose a slower sightseeing pace or focus on certain interests. That can be especially useful for honeymooners, families, photography groups and travelers with mobility needs. But private travel can cost more per person for a couple than for a larger party sharing the vehicle.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A small-group tour may be more social and can reduce per-person transport costs. The compromise is a fixed timetable: everyone follows the same stops, meal breaks and departure times. Luxury accommodation does not automatically mean the journey is private, so check whether other travelers will share transfers, excursions or rooms.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Ask for a written comparison covering number of guests, vehicle size, room categories, guide arrangements, activity inclusions and cancellation terms. The cheapest initial price is not always the best value if important services must be added later. Your priorities should be clear before you request quotations.</p>
+<CompareTable headings={tables.styles.headings} rows={tables.styles.rows}/>
+</SectionFrame>;}

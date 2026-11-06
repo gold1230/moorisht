@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-10-12",
+  "typescriptFiles": 9,
+  "routeDurations": [
+    3,
+    5,
+    7,
+    10,
+    14,
+    21
+  ],
+  "dayByDayDescriptions": 60,
+  "faqQuestions": 18,
+  "bundledLocalWebpImages": 8,
+  "localImageImports": 8,
+  "photoPlacements": 22,
+  "uniqueHoverDestinations": [
+    "marrakech",
+    "chefchaouen",
+    "fes",
+    "merzouga",
+    "tangier",
+    "ait-ben-haddou",
+    "essaouira"
+  ],
+  "bodyMoroccoCountryLinks": 1,
+  "externalOutboundLinks": [],
+  "unusedImports": [],
+  "duplicateOrParseErrors": [],
+  "unresolvedLocalImports": [],
+  "missingTocAnchors": [],
+  "codeHasHeroiconsImports": false
+}

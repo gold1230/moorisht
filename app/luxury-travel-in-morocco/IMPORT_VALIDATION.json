@@ -1,0 +1,29 @@
+{
+  "folder": "app/luxury-travel-in-morocco/",
+  "typescript_file_count": 37,
+  "main_sections": 29,
+  "image_import_count": 9,
+  "image_filenames": [
+    "travelers-exploring-morocco-on-a-desert-journey-viewpoint.jpg",
+    "mountain-road-through-tizi-n-tichka-pass-in-the-high-atlas-mountains.jpg",
+    "travelers-visiting-ait-ben-haddou-ksar-morocco.jpg",
+    "camel-riders-crossing-erg-chebbi-dunes-merzouga-morocco.jpg",
+    "road-through-southern-morocco-during-marrakech-to-merzouga-desert-tour.jpg",
+    "todra-gorge-dramatic-rocky-cliffs-in-southern-morocco.jpg",
+    "sahara-desert-camp-experience-near-erg-chebbi-dunes-merzouga.jpg",
+    "group-travelers-merzouga-sahara-desert-tour.jpg",
+    "tourists-visiting-nomad-tent-merzouga-desert.jpg"
+  ],
+  "heroicons_imports": [
+    "ArrowRightIcon",
+    "CheckCircleIcon",
+    "MapPinIcon",
+    "LightBulbIcon"
+  ],
+  "unsupported_icons_found": false,
+  "unused_import_bindings_found": 0,
+  "relative_import_paths_resolved": true,
+  "typescript_syntax_errors": 0,
+  "verified_country_link_count": 1,
+  "scope": "Syntax and relative path validation only; full Next.js build requires host project dependencies"
+}

@@ -1,0 +1,53 @@
+{
+  "total_contextual_internal_links": 23,
+  "unique_internal_targets": 20,
+  "morocco_link_count": 1,
+  "linked_pages": {
+    "/3-days-in-morocco-tours-ideas-and-travel-tips/": 1,
+    "/activity/camel-trekking-in-the-desert/": 1,
+    "/all-morocco-tours-packages/": 2,
+    "/bird-watching-tours-morocco/": 1,
+    "/birds-of-morocco-tours/": 1,
+    "/contact/": 1,
+    "/erfoud-sahara-tours-4x4-desert-vehicles/": 2,
+    "/moroccan-food-tour-the-tasty-heart-of-morocco/": 1,
+    "/morocco-general-information-for-travelers/": 1,
+    "/morocco-wonders-tour-the-ultimate-morocco-tour/": 1,
+    "/morocco/": 1,
+    "/one-week-in-morocco-itinerary/": 1,
+    "/plan-your-morocco-tour": 1,
+    "/top-5-best-merzouga-luxury-desert-camps/": 2,
+    "/tour/": 1,
+    "/tour/3-days-desert-tour-from-marrakech-to-merzouga/": 1,
+    "/tour/3-days-from-errachidia-to-merzouga/": 1,
+    "/tour/3-days-from-fes-to-merzouga-desert/": 1,
+    "/tour/3-days-tour-from-fes-to-merzouga/": 1,
+    "/ultimate-guide-what-to-wear-in-marrakech-morocco/": 1
+  },
+  "first_mention_place_hover_cards": [
+    "merzouga",
+    "erg-chebbi",
+    "marrakech",
+    "fes",
+    "high-atlas-mountains",
+    "erfoud",
+    "dades-valley",
+    "ait-ben-haddou",
+    "ouarzazate",
+    "todra-gorge"
+  ],
+  "article_image_placements": 10,
+  "distinct_article_images": 9,
+  "required_local_images": {
+    "dunes": "public/blog/content/camel-riders-crossing-erg-chebbi-dunes-merzouga-morocco.jpg",
+    "camels": "public/blog/content/travelers-camel-trekking-across-erg-chebbi-dunes-at-sunset.jpg",
+    "camp": "public/blog/content/sahara-desert-camp-experience-near-erg-chebbi-dunes-merzouga.jpg",
+    "fourbyfour": "public/blog/content/4x4-vehicle-exploring-desert-landscapes-around-merzouga-and-erg-chebbi.jpg",
+    "road": "public/blog/content/road-through-southern-morocco-during-marrakech-to-merzouga-desert-tour.jpg",
+    "group": "public/blog/content/group-travelers-merzouga-sahara-desert-tour.jpg",
+    "village": "public/blog/content/tourists-visiting-nomad-tent-merzouga-desert.jpg",
+    "erg": "public/blog/content/tourists-exploring-merzouga-desert-morocco.jpg",
+    "landscape": "public/blog/content/travelers-exploring-morocco-on-a-desert-journey-viewpoint.jpg"
+  },
+  "external_links_in_article": 0
+}

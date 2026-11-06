@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "2-days-zagora-desert-tour-from-marrakech",
+    "title": "2 Days Zagora Desert Tour from Marrakech",
+    "duration": "2 Days / 1 Nights",
+    "start": "Marrakech",
+    "subtitle": "Discover High Atlas Mountains, Ait Ben Haddou, Ouarzazate on a thoughtfully planned 2-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/ouarzazate.jpg",
+    "imageAlt": "Ouarzazate in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 149
+  },
+  {
+    "slug": "3-days-luxury-desert-tour-from-marrakech-to-merzouga",
+    "title": "3 Days Luxury Marrakech to Merzouga Desert Tour",
+    "duration": "3 Days / 2 Nights",
+    "start": "Marrakech",
+    "subtitle": "Discover High Atlas Mountains, Ait Ben Haddou, Skoura on a thoughtfully planned 3-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/erg-chebbi.jpg",
+    "imageAlt": "Erg Chebbi in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 390
+  },
+  {
+    "slug": "5-days-marrakech-to-fes-desert-tour",
+    "title": "5 Days Marrakech to Fes Desert Tour via Merzouga",
+    "duration": "5 Days / 4 Nights",
+    "start": "Marrakech",
+    "subtitle": "Discover High Atlas Mountains, Ait Ben Haddou, Ouarzazate on a thoughtfully planned 5-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/tours/related/4-days-tour-from-marrakech-to-fes.jpg",
+    "imageAlt": "4 Days Tour From Marrakech To Fes in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 480
+  },
+  {
+    "slug": "5-days-fes-to-marrakech-desert-tour",
+    "title": "5 Days Fes to Marrakech Desert Tour via Merzouga",
+    "duration": "5 Days / 4 Nights",
+    "start": "Fes",
+    "subtitle": "Discover Ifrane, Azrou, Midelt on a thoughtfully planned 5-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/tours/related/4-days-tour-from-marrakech-to-fes.jpg",
+    "imageAlt": "4 Days Tour From Marrakech To Fes in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 470
+  },
+  {
+    "slug": "6-days-private-morocco-tour-from-marrakech-to-fes",
+    "title": "6 Days Private Morocco Tour Marrakech to Fes",
+    "duration": "6 Days / 5 Nights",
+    "start": "Marrakech",
+    "subtitle": "Discover High Atlas Mountains, Ait Ben Haddou, Ouarzazate on a thoughtfully planned 6-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/tours/related/morocco-itinerary-7-days-from-marrakech.jpg",
+    "imageAlt": "Morocco Itinerary 7 Days From Marrakech in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 590
+  },
+  {
+    "slug": "7-days-best-of-morocco-tour-from-casablanca",
+    "title": "7 Days Morocco Tour from Casablanca to Marrakech & Sahara",
+    "duration": "7 Days / 6 Nights",
+    "start": "Casablanca",
+    "subtitle": "Discover Rabat, Meknes, Volubilis on a thoughtfully planned 7-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/casablanca.jpg",
+    "imageAlt": "Casablanca in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 790
+  },
+  {
+    "slug": "9-days-morocco-tour-from-casablanca",
+    "title": "9 Days Morocco Tour from Casablanca with Chefchaouen & Desert",
+    "duration": "9 Days / 8 Nights",
+    "start": "Casablanca",
+    "subtitle": "Discover Rabat, Chefchaouen, Volubilis on a thoughtfully planned 9-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/casablanca.jpg",
+    "imageAlt": "Casablanca in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 990
+  },
+  {
+    "slug": "10-days-grand-morocco-tour-from-casablanca",
+    "title": "10 Days Morocco Tour from Casablanca, Chefchaouen & Sahara",
+    "duration": "10 Days / 9 Nights",
+    "start": "Casablanca",
+    "subtitle": "Discover Rabat, Chefchaouen, Tetouan on a thoughtfully planned 10-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/tours/related/morocco-itinerary-10-days-from-marrakech.jpg",
+    "imageAlt": "Morocco Itinerary 10 Days From Marrakech in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 1150
+  },
+  {
+    "slug": "12-days-grand-morocco-tour-from-casablanca",
+    "title": "12 Days Grand Morocco Tour from Casablanca",
+    "duration": "12 Days / 11 Nights",
+    "start": "Casablanca",
+    "subtitle": "Discover Rabat, Asilah, Tangier on a thoughtfully planned 12-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/casablanca.jpg",
+    "imageAlt": "Casablanca in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 1390
+  },
+  {
+    "slug": "14-days-best-of-morocco-itinerary-from-casablanca",
+    "title": "14 Days Best of Morocco Tour from Casablanca",
+    "duration": "14 Days / 13 Nights",
+    "start": "Casablanca",
+    "subtitle": "Discover Rabat, Asilah, Tangier on a thoughtfully planned 14-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/tours/related/morocco-itinerary-10-days-from-marrakech.jpg",
+    "imageAlt": "Morocco Itinerary 10 Days From Marrakech in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 1690
+  },
+  {
+    "slug": "5-days-north-morocco-tour-from-tangier-to-marrakech",
+    "title": "5 Days Tangier to Marrakech Tour via Chefchaouen & Fes",
+    "duration": "5 Days / 4 Nights",
+    "start": "Tangier",
+    "subtitle": "Discover Asilah, Tetouan, Chefchaouen on a thoughtfully planned 5-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/chefchaouen.jpg",
+    "imageAlt": "Chefchaouen in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 495
+  },
+  {
+    "slug": "7-days-tangier-to-marrakech-morocco-tour",
+    "title": "7 Days Tangier to Marrakech Tour with Sahara Desert",
+    "duration": "7 Days / 6 Nights",
+    "start": "Tangier",
+    "subtitle": "Discover Chefchaouen, Volubilis, Meknes on a thoughtfully planned 7-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/chefchaouen.jpg",
+    "imageAlt": "Chefchaouen in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 795
+  },
+  {
+    "slug": "9-days-tangier-to-marrakech-private-tour",
+    "title": "9 Days Tangier to Marrakech Private Morocco Tour",
+    "duration": "9 Days / 8 Nights",
+    "start": "Tangier",
+    "subtitle": "Discover Asilah, Tetouan, Chefchaouen on a thoughtfully planned 9-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/chefchaouen.jpg",
+    "imageAlt": "Chefchaouen in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 980
+  },
+  {
+    "slug": "4-days-fes-to-merzouga-desert-tour",
+    "title": "4 Days Fes to Merzouga Sahara Desert Tour",
+    "duration": "4 Days / 3 Nights",
+    "start": "Fes",
+    "subtitle": "Discover Ifrane, Azrou, Midelt on a thoughtfully planned 4-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/erg-chebbi.jpg",
+    "imageAlt": "Erg Chebbi in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 340
+  },
+  {
+    "slug": "5-days-errachidia-merzouga-dades-private-tour",
+    "title": "5 Days Errachidia to Merzouga & Dades Private Tour",
+    "duration": "5 Days / 4 Nights",
+    "start": "Errachidia",
+    "subtitle": "Discover Ziz Valley, Erfoud, Rissani on a thoughtfully planned 5-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/erfoud.jpg",
+    "imageAlt": "Erfoud in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 410
+  },
+  {
+    "slug": "2-days-erfoud-to-merzouga-overnight-desert-tour",
+    "title": "2 Days Erfoud to Merzouga Overnight Desert Tour",
+    "duration": "2 Days / 1 Nights",
+    "start": "Erfoud",
+    "subtitle": "Discover Rissani, Merzouga, Erg Chebbi on a thoughtfully planned 2-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/erg-chebbi.jpg",
+    "imageAlt": "Erg Chebbi in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 165
+  },
+  {
+    "slug": "ourika-valley-day-trip-from-marrakech",
+    "title": "Ourika Valley Day Trip from Marrakech",
+    "duration": "1 Day",
+    "start": "Marrakech",
+    "subtitle": "Discover High Atlas Mountains, Ourika Valley on a thoughtfully planned 1-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/ourika-valley.jpg",
+    "imageAlt": "Ourika Valley in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 32
+  },
+  {
+    "slug": "essaouira-day-trip-from-marrakech",
+    "title": "Essaouira Day Trip from Marrakech",
+    "duration": "1 Day",
+    "start": "Marrakech",
+    "subtitle": "Discover Essaouira on a thoughtfully planned 1-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/essaouira.jpg",
+    "imageAlt": "Essaouira in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 29
+  },
+  {
+    "slug": "ouzoud-waterfalls-day-trip-from-marrakech",
+    "title": "Ouzoud Waterfalls Day Trip from Marrakech",
+    "duration": "1 Day",
+    "start": "Marrakech",
+    "subtitle": "Discover Ouzoud Waterfalls on a thoughtfully planned 1-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/ourika-valley.jpg",
+    "imageAlt": "Ourika Valley in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 33
+  },
+  {
+    "slug": "agafay-desert-sunset-dinner-from-marrakech",
+    "title": "Agafay Desert Sunset and Dinner from Marrakech",
+    "duration": "1 Day",
+    "start": "Marrakech",
+    "subtitle": "Discover High Atlas Mountains on a thoughtfully planned 1-day Morocco journey with local travel guidance and flexible options.",
+    "image": "/locations/high-atlas-mountains.jpg",
+    "imageAlt": "High Atlas Mountains in Morocco, illustrative tour photograph",
+    "suggestedPriceEUR": 65
+  }
+]

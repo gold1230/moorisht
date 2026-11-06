@@ -1,0 +1,204 @@
+{
+  "url": "https://moorishtour.com/explore-marrakech-tour-company/",
+  "countryLinkCount": 1,
+  "contextualLinkCount": 27,
+  "uniqueDestinationCount": 22,
+  "destinations": [
+    "/3-days-desert-tour-from-marrakech-to-merzouga/",
+    "/3-days-in-morocco-tours-ideas-and-travel-tips/",
+    "/about/",
+    "/activity/camel-trekking-in-the-desert/",
+    "/all-morocco-tours-packages/",
+    "/city-of-merzouga-easy-travel-guide/",
+    "/contact/",
+    "/discover-morocco-tour-in-morocco/",
+    "/locations/marrakech/",
+    "/luxury-travel-in-morocco/",
+    "/marrakech-desert-tours/",
+    "/moroccan-food-tour-the-tasty-heart-of-morocco/",
+    "/morocco-general-information-for-travelers/",
+    "/morocco-wonders-tour-the-ultimate-morocco-tour/",
+    "/morocco/",
+    "/one-week-in-morocco-itinerary/",
+    "/plan-your-morocco-tour/",
+    "/top-5-best-merzouga-luxury-desert-camps/",
+    "/tour/3-days-in-marrakech-a-simple-and-fun-plan-for-your-trip/",
+    "/tour/4-days-tour-from-marrakech-to-fes/",
+    "/tour/4-days-tour-from-marrakech-to-merzouga/",
+    "/ultimate-guide-what-to-wear-in-marrakech-morocco/"
+  ],
+  "placeHoverCards": [
+    {
+      "section": "explore-marrakech-with-local-tour-company",
+      "place": "marrakech",
+      "label": "Marrakech"
+    },
+    {
+      "section": "marrakech-day-trip-atlas-mountains",
+      "place": "high-atlas-mountains",
+      "label": "High Atlas Mountains"
+    },
+    {
+      "section": "agafay-desert-vs-sahara-marrakech",
+      "place": "merzouga",
+      "label": "Merzouga"
+    },
+    {
+      "section": "agafay-desert-vs-sahara-marrakech",
+      "place": "erg-chebbi",
+      "label": "Erg Chebbi"
+    },
+    {
+      "section": "marrakech-to-merzouga-sahara-tour",
+      "place": "tizi-n-tichka-pass",
+      "label": "Tizi n’Tichka Pass"
+    },
+    {
+      "section": "marrakech-to-merzouga-sahara-tour",
+      "place": "ait-ben-haddou",
+      "label": "Ait Ben Haddou"
+    },
+    {
+      "section": "marrakech-to-merzouga-sahara-tour",
+      "place": "todra-gorge",
+      "label": "Todra Gorge"
+    }
+  ],
+  "links": [
+    {
+      "section": "explore-marrakech-with-local-tour-company",
+      "text": "Morocco",
+      "href": "/morocco/"
+    },
+    {
+      "section": "explore-marrakech-with-local-tour-company",
+      "text": "Marrakech tours and desert departures",
+      "href": "/marrakech-desert-tours/"
+    },
+    {
+      "section": "explore-marrakech-with-local-tour-company",
+      "text": "custom Morocco tour plans",
+      "href": "/plan-your-morocco-tour/"
+    },
+    {
+      "section": "first-time-marrakech-tour-experience",
+      "text": "Marrakech destination guide",
+      "href": "/locations/marrakech/"
+    },
+    {
+      "section": "first-time-marrakech-tour-experience",
+      "text": "three-day Marrakech travel plan",
+      "href": "/tour/3-days-in-marrakech-a-simple-and-fun-plan-for-your-trip/"
+    },
+    {
+      "section": "traditional-food-marrakech-tour",
+      "text": "Moroccan food and culinary travel guide",
+      "href": "/moroccan-food-tour-the-tasty-heart-of-morocco/"
+    },
+    {
+      "section": "marrakech-day-trip-atlas-mountains",
+      "text": "Moorish Tour's custom itinerary planning",
+      "href": "/plan-your-morocco-tour/"
+    },
+    {
+      "section": "ourika-and-ouzoud-waterfall-day-trips",
+      "text": "one-week Morocco route guide",
+      "href": "/one-week-in-morocco-itinerary/"
+    },
+    {
+      "section": "agafay-desert-vs-sahara-marrakech",
+      "text": "easy Merzouga travel guide",
+      "href": "/city-of-merzouga-easy-travel-guide/"
+    },
+    {
+      "section": "agafay-desert-vs-sahara-marrakech",
+      "text": "Marrakech desert tours",
+      "href": "/marrakech-desert-tours/"
+    },
+    {
+      "section": "marrakech-to-merzouga-sahara-tour",
+      "text": "Sahara camel trekking guide",
+      "href": "/activity/camel-trekking-in-the-desert/"
+    },
+    {
+      "section": "marrakech-to-merzouga-sahara-tour",
+      "text": "three-day Marrakech-to-Merzouga route",
+      "href": "/3-days-desert-tour-from-marrakech-to-merzouga/"
+    },
+    {
+      "section": "three-day-marrakech-city-itinerary",
+      "text": "3 Days in Morocco guide",
+      "href": "/3-days-in-morocco-tours-ideas-and-travel-tips/"
+    },
+    {
+      "section": "three-day-sahara-desert-itinerary-marrakech",
+      "text": "four-day Marrakech-to-Merzouga tour options",
+      "href": "/tour/4-days-tour-from-marrakech-to-merzouga/"
+    },
+    {
+      "section": "three-day-sahara-desert-itinerary-marrakech",
+      "text": "Marrakech to Fes desert routes",
+      "href": "/tour/4-days-tour-from-marrakech-to-fes/"
+    },
+    {
+      "section": "family-friendly-marrakech-tours",
+      "text": "general Morocco travel guide",
+      "href": "/morocco-general-information-for-travelers/"
+    },
+    {
+      "section": "marrakech-tour-price-guide",
+      "text": "Moorish Tour",
+      "href": "/contact/"
+    },
+    {
+      "section": "marrakech-hotels-riads-desert-camps",
+      "text": "luxury travel in Morocco guide",
+      "href": "/luxury-travel-in-morocco/"
+    },
+    {
+      "section": "marrakech-hotels-riads-desert-camps",
+      "text": "Merzouga luxury desert camp guide",
+      "href": "/top-5-best-merzouga-luxury-desert-camps/"
+    },
+    {
+      "section": "marrakech-best-time-to-visit",
+      "text": "Marrakech-based Morocco tour ideas",
+      "href": "/discover-morocco-tour-in-morocco/"
+    },
+    {
+      "section": "marrakech-tour-packing-and-clothing",
+      "text": "Marrakech clothing and packing guide",
+      "href": "/ultimate-guide-what-to-wear-in-marrakech-morocco/"
+    },
+    {
+      "section": "choose-reliable-marrakech-tour-operator",
+      "text": "Moorish Tour company information",
+      "href": "/about/"
+    },
+    {
+      "section": "choose-reliable-marrakech-tour-operator",
+      "text": "contact page",
+      "href": "/contact/"
+    },
+    {
+      "section": "marrakech-local-culture-responsible-travel",
+      "text": "Morocco Wonders Tour guide",
+      "href": "/morocco-wonders-tour-the-ultimate-morocco-tour/"
+    },
+    {
+      "section": "book-your-marrakech-trip-moorish-tour",
+      "text": "Marrakech tour options",
+      "href": "/marrakech-desert-tours/"
+    },
+    {
+      "section": "book-your-marrakech-trip-moorish-tour",
+      "text": "all available Morocco tour packages",
+      "href": "/all-morocco-tours-packages/"
+    },
+    {
+      "section": "book-your-marrakech-trip-moorish-tour",
+      "text": "send Moorish Tour your travel plan",
+      "href": "/contact/"
+    }
+  ]
+}

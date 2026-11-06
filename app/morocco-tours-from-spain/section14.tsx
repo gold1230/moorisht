@@ -1,0 +1,9 @@
+import { SectionFrame, Timeline } from "./ArticleElements";
+export default function Section14(){
+  return <SectionFrame id={"four-to-five-days-from-spain"} label={"NORTHERN ESCAPE"} title={"A Relaxed 4–5 Day Route: Tangier, Tetouan and Chefchaouen"} index={14}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Four or five days give you more breathing room. You can experience Tangier without rushing off immediately, travel through Tetouan&apos;s historic areas, and stay long enough in Chefchaouen to see the blue streets in different light. This works especially well for first-time visitors who want culture and mountain scenery rather than very long drives.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">You could keep the same city for two nights, take a gentle walking tour and leave one afternoon free. A great Morocco holiday from Spain does not always need a long list of stops. More time in fewer places often means a better understanding of local life, food and people.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">If you plan to return by ferry, leave your last night within an easy transfer of the departure port. If your return flight is from another Moroccan city, let that airport shape your route. A one-way trip can be efficient, but only if the flight and transport arrangements fit.</p>
+<Timeline items={[["Day 1 — Arrive in Tangier", "Meet your driver or guide, settle into your accommodation and enjoy a short walk."], ["Day 2 — Explore Tangier", "Kasbah, medina, tea stops and a coastal viewpoint if time allows."], ["Day 3 — Tetouan to Chefchaouen", "Visit a historic northern town before continuing into the Rif hills."], ["Day 4 — Enjoy Chefchaouen", "Take the slower morning you will be glad you saved."], ["Day 5 — Return or fly onward", "Allow enough time for the route to the port or airport."]]}/>
+  </SectionFrame>;
+}

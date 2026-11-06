@@ -1,0 +1,614 @@
+[
+  {
+    "path": "/3-days-desert-tour-from-marrakech-to-merzouga",
+    "kind": "blog"
+  },
+  {
+    "path": "/3-days-in-morocco-tours-ideas-and-travel-tips",
+    "kind": "blog"
+  },
+  {
+    "path": "/about",
+    "kind": "page"
+  },
+  {
+    "path": "/activity",
+    "kind": "page"
+  },
+  {
+    "path": "/activity/camel-trekking-in-the-desert",
+    "kind": "page"
+  },
+  {
+    "path": "/activity/quad-biking-in-marrakech-and-merzouga",
+    "kind": "page"
+  },
+  {
+    "path": "/all-morocco-tours-packages",
+    "kind": "blog"
+  },
+  {
+    "path": "/atlantic-northern-morocco",
+    "kind": "page"
+  },
+  {
+    "path": "/atlas-mountains-valleys",
+    "kind": "page"
+  },
+  {
+    "path": "/best-family-day-trips-near-me",
+    "kind": "blog"
+  },
+  {
+    "path": "/best-marrakech-tour-company",
+    "kind": "blog"
+  },
+  {
+    "path": "/bird-watching-tours-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/birds-of-morocco-tours",
+    "kind": "blog"
+  },
+  {
+    "path": "/birds-of-morocco-tours-best-morocco-birdwatching",
+    "kind": "blog"
+  },
+  {
+    "path": "/blog",
+    "kind": "page"
+  },
+  {
+    "path": "/city-of-merzouga-easy-travel-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/comprehensive-guide-to-morocco-tours-2024",
+    "kind": "blog"
+  },
+  {
+    "path": "/contact",
+    "kind": "page"
+  },
+  {
+    "path": "/cookie-policy",
+    "kind": "page"
+  },
+  {
+    "path": "/destinations",
+    "kind": "page"
+  },
+  {
+    "path": "/discover-morocco-tour-in-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/erfoud-fossils-for-sale-in-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/erfoud-sahara-tours-4x4-desert-vehicles",
+    "kind": "blog"
+  },
+  {
+    "path": "/errachidia-desert-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/explore-marrakech-tour-company",
+    "kind": "blog"
+  },
+  {
+    "path": "/exploring-the-wonders-of-morocco-tourism-experience",
+    "kind": "blog"
+  },
+  {
+    "path": "/exploring-trusted-casablanca-travel-agency",
+    "kind": "blog"
+  },
+  {
+    "path": "/getting-around-morocco-transport-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/how-to-get-a-tourist-visa-to-usa-from-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/imperial-cities",
+    "kind": "page"
+  },
+  {
+    "path": "/locations",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/agadir",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/agdez",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ait-atta-villages",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ait-ben-haddou",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/asilah",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/azrou",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/casablanca",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/chefchaouen",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/dades-valley",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/demnate",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/draa-valley",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/erfoud",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/erg-chebbi",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/errachidia",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/essaouira",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/fes",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/high-atlas-mountains",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ifrane",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/imilchil",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/imlil",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/kasbah-tadla",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/kelaat-mgouna",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/khamlia",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/marrakech",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/meknes",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/merzouga",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/midelt",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ouarzazate",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ourika-valley",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ouzoud-waterfalls",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/rabat",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/rissani",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/rose-valley",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/skoura",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/tamegroute",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/tangier",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/taroudant",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/tetouan",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/tinghir",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/tizi-ntichka",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/todra-gorges",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/volubilis",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/zagora",
+    "kind": "page"
+  },
+  {
+    "path": "/locations/ziz-valley",
+    "kind": "page"
+  },
+  {
+    "path": "/luxury-travel-in-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/marrakech-desert-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/marrakech-souks-shopping-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/moroccan-food-tour-the-tasty-heart-of-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/moroccan-food-what-to-eat-travel-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/moroccan-guides-travel-best-tour-guides-in-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-desert-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-desert-tours-from-casablanca",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-desert-tours-from-tangier",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-expedition-the-ultimate-journey",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-family-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-fes-desert-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-general-information-for-travelers",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-in-summer-where-to-go-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-in-winter-weather-packing-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-itinerary",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-student-tour-educational-trips-cultural",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-tour-discount",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-tours-from-spain",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-travel-tips",
+    "kind": "page"
+  },
+  {
+    "path": "/morocco-war-is-morocco-safe-to-visit-2026",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-with-kids-family-travel-guide",
+    "kind": "blog"
+  },
+  {
+    "path": "/morocco-wonders-tour-the-ultimate-morocco-tour",
+    "kind": "blog"
+  },
+  {
+    "path": "/one-week-in-morocco-itinerary",
+    "kind": "blog"
+  },
+  {
+    "path": "/plan-your-morocco-tour",
+    "kind": "page"
+  },
+  {
+    "path": "/privacy-policy",
+    "kind": "page"
+  },
+  {
+    "path": "/private-morocco-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/small-morocco-shared-tours",
+    "kind": "page"
+  },
+  {
+    "path": "/terms-and-conditions",
+    "kind": "page"
+  },
+  {
+    "path": "/top-5-best-merzouga-luxury-desert-camps",
+    "kind": "blog"
+  },
+  {
+    "path": "/tour",
+    "kind": "page"
+  },
+  {
+    "path": "/tour/10-days-grand-morocco-tour-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/10-days-in-morocco-tour-from-tangier",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/12-days-grand-morocco-tour-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/12-days-morocco-tour-from-casablanca-to-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/14-days-best-of-morocco-itinerary-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/2-days-erfoud-to-merzouga-overnight-desert-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/2-days-zagora-desert-tour-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-day-tour-from-casablanca-rabat-to-the-sahara-desert",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-desert-tour-from-marrakech-to-fes",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-desert-tour-from-marrakech-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-from-errachidia-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-from-fes-to-merzouga-desert",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-in-marrakech-a-simple-and-fun-plan-for-your-trip",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-luxury-desert-tour-from-marrakech-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-tour-from-fes-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-tour-from-fes-to-merzouga-desert",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-tour-from-marrakech-to-fes",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/3-days-tour-from-marrakech-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/4-days-fes-to-merzouga-desert-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/4-days-itinerary-tour-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/4-days-tour-from-casablanca-rabat-to-sahara-desert-via-meknes-and-midelt",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/4-days-tour-from-marrakech-to-fes",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/4-days-tour-from-marrakech-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/5-days-errachidia-merzouga-dades-private-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/5-days-fes-to-marrakech-desert-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/5-days-marrakech-to-fes-desert-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/5-days-north-morocco-tour-from-tangier-to-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/6-days-from-errachidia-morocco-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/6-days-private-morocco-tour-from-marrakech-to-fes",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/7-days-best-of-morocco-tour-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/7-days-tangier-to-marrakech-morocco-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/8-days-desert-tour-in-morocco-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/8-days-tour-from-marrakech-to-merzouga",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/9-days-morocco-tour-from-casablanca",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/9-days-tangier-to-marrakech-private-tour",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/agafay-desert-sunset-dinner-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/essaouira-day-trip-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/morocco-itinerary-10-days-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/morocco-itinerary-7-days-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/ourika-valley-day-trip-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/tour/ouzoud-waterfalls-day-trip-from-marrakech",
+    "kind": "tour"
+  },
+  {
+    "path": "/ultimate-guide-what-to-wear-in-marrakech-morocco",
+    "kind": "blog"
+  },
+  {
+    "path": "/unforgettable-morocco-tours-2025",
+    "kind": "blog"
+  },
+  {
+    "path": "/where-to-stay-in-morocco-best-places",
+    "kind": "blog"
+  },
+  {
+    "path": "/your-perfect-3-days-in-morocco-tours-deserts-magic-cities",
+    "kind": "blog"
+  },
+  {
+    "path": "/is-there-a-war-in-morocco-safe-to-visit-2026",
+    "kind": "blog"
+  }
+]

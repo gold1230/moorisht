@@ -1,0 +1,14 @@
+import { ArticleSection, ArticlePicture, GuideTable } from "./ArticleElements";
+import AtlasImage from "@/public/blog/content/mountain-road-through-tizi-n-tichka-pass-in-the-high-atlas-mountains.jpg";
+
+export default function Section11() {
+ return (
+  <ArticleSection id="what-to-wear-in-the-atlas-mountains-essaouira-and-other-moroccan-cities" label="Beyond Marrakech" title="What to Wear in the Atlas Mountains, Essaouira and Other Moroccan Cities">
+  <p className="mt-5 text-lg leading-8 text-gray-700">Many travelers discover that the climate changes quickly once they leave Marrakech. An Atlas Mountains day trip can begin in the warm city and continue to cooler villages and higher roads. Even when the sun shines, the air can feel different from the heat of the medina. For mountain trips, choose trousers that allow easy movement, supportive shoes and a warm or wind-resistant layer. If you plan to hike rather than take a scenic drive, ask your guide about the trail difficulty and any specific equipment.</p>
+  <ArticlePicture src={AtlasImage} alt="Mountain day trips need a different wardrobe from a warm afternoon in central Marrakech." caption="Mountain day trips need a different wardrobe from a warm afternoon in central Marrakech." />
+  <p className="mt-5 text-lg leading-8 text-gray-700">Essaouira on the Atlantic coast is often breezy. A lightweight jacket can be useful even on a sunny day, especially by the fishing port or along the beach. Visitors can wear swimwear at the beach, but a shirt, dress or kaftan is a useful cover-up for cafés and markets. In Fes, the old medina is another place where breathable modest everyday clothing and comfortable walking shoes help you enjoy the experience. In Casablanca and Rabat, modern dress is common, but practical city clothing is still the easiest choice for sightseeing.</p>
+  <p className="mt-5 text-lg leading-8 text-gray-700">Small villages and remote areas can have more traditional social expectations than tourist-heavy Marrakech. An outfit with covered shoulders and longer trousers or skirts helps you feel comfortable when meeting local families or joining a cultural experience. When visiting any community, respectful behavior matters as much as your clothes. Ask permission for photographs, follow local guidance and avoid treating people’s homes as sightseeing displays.</p>
+  <GuideTable headings={["Morocco destination", "Best clothing approach", "Useful extra"]} rows={[["High Atlas Mountains", "Layers, trousers, sturdy walking footwear", "Jacket for altitude and wind"], ["Essaouira or Agadir coast", "Light everyday clothes and beach cover-up", "Wind layer"], ["Fes medina", "Comfortable, modest city outfit", "Good walking shoes"], ["Casablanca or Rabat", "Everyday casual or smart casual clothes", "Layer for coastal weather"], ["Rural villages", "Comfortable longer clothing", "Respectful cultural awareness"]]} />
+</ArticleSection>
+ );
+}

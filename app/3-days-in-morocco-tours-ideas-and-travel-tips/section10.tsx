@@ -1,0 +1,15 @@
+import { ArticleSection, TravelNote, GuideTable } from "./ArticleElements";
+
+export default function Section10() {
+  return (
+    <ArticleSection id="3-day-morocco-tour-prices-tips-and-travel-info" label="Costs &amp; Practical Advice" title="3 Day Morocco Tour Prices, Tips, and Travel Info">
+      <p className="mt-5 text-lg leading-8 text-gray-700">The price of a <strong className="font-bold text-slate-900">3 day Morocco tour</strong> depends on the route, season, number of travelers, type of transport, and where you sleep. A shared minibus trip with standard accommodation will usually be priced differently from a private 4×4 journey with an upgraded camp and exclusive guide services. For this reason, we recommend requesting a written quotation for your exact dates rather than comparing a single advertised number.</p>
+      <h3 className="mt-10 text-2xl font-bold leading-tight text-[#102043] sm:text-3xl">What affects the final tour price?</h3>
+      <GuideTable headings={["Cost factor", "Why it matters", "What to ask"]} rows={[["Private or shared transport", "Changes the per-person price and travel flexibility", "Is the vehicle exclusively ours?"], ["Tour start and finish", "Different cities create different driving distances", "Where exactly are pickup and drop-off?"], ["Accommodation", "Riad and camp standards vary", "Is the bathroom private or shared?"], ["Meals and activities", "Some experiences are optional extras", "Which breakfasts, dinners, camel rides and guides are included?"], ["Group size and season", "Availability and vehicle costs can change", "Is this quote valid for our dates and number of guests?"]]} />
+      <h3 className="mt-10 text-2xl font-bold leading-tight text-[#102043] sm:text-3xl">Small travel tips that help a lot</h3>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Carry a modest amount of Moroccan dirhams for cafés, local purchases, small entrance fees, and tips where appropriate. Cards are common in some hotels and larger businesses, but cash remains useful in small villages. Bring comfortable shoes for old medina streets, sun protection for open landscapes, and a warmer layer for evenings. A reusable water bottle and personal medication are also worth keeping in a small day bag.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Respect local customs, ask permission before taking close photographs of people, and use your guide when you need advice about markets or cultural sites. For mountain and desert journeys, confirm weather conditions and the expected driving time before departure. It is important to check passport and entry requirements for your nationality with official sources, since rules can change.</p>
+      <TravelNote title="Transparent booking is better than a tempting headline price"><p>Ask for the full list of inclusions and exclusions. A realistic written quote should make it clear whether entry tickets, lunches, local guides, camel trekking, camp upgrades, and tips are included.</p></TravelNote>
+    </ArticleSection>
+  );
+}

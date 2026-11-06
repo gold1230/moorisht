@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Sahara Desert",
+    "subtitle": "Merzouga",
+    "slug": "merzouga",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Sahara Desert dunes in Merzouga Morocco",
+    "href": "/locations/merzouga",
+    "icon": "sun"
+  },
+  {
+    "id": 2,
+    "name": "Chefchaouen",
+    "subtitle": "The Blue City",
+    "slug": "chefchaouen",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Blue streets of Chefchaouen Morocco",
+    "href": "/locations/chefchaouen",
+    "icon": "buildingOffice"
+  },
+  {
+    "id": 3,
+    "name": "Marrakech",
+    "subtitle": "The Red City",
+    "slug": "marrakech",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Marrakech Morocco at sunset",
+    "href": "/locations/marrakech",
+    "icon": "map"
+  },
+  {
+    "id": 4,
+    "name": "Ait Ben Haddou",
+    "subtitle": "Historic Kasbah",
+    "slug": "ait-ben-haddou",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Ait Ben Haddou historic kasbah Morocco",
+    "href": "/locations/ait-ben-haddou",
+    "icon": "buildingLibrary"
+  },
+  {
+    "id": 5,
+    "name": "Atlas Mountains",
+    "subtitle": "Stunning Views",
+    "slug": "atlas-mountains",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Atlas Mountains Morocco landscape",
+    "href": "/locations/high-atlas-mountains",
+    "icon": "globe"
+  },
+  {
+    "id": 6,
+    "name": "Fes",
+    "subtitle": "Imperial City",
+    "slug": "fes",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Historic gate in Fes Morocco",
+    "href": "/locations/fes",
+    "icon": "home"
+  },
+  {
+    "id": 7,
+    "name": "Dades Valley",
+    "subtitle": "Valley of a Thousand Kasbahs",
+    "slug": "dades-valley",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Dades Valley mountain road and kasbah landscape in Morocco",
+    "href": "/locations/dades-valley",
+    "icon": "globe"
+  },
+  {
+    "id": 8,
+    "name": "Todra Gorge",
+    "subtitle": "Dramatic Canyon",
+    "slug": "todra-gorge",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Todra Gorge towering canyon walls in Morocco",
+    "href": "/locations/todra-gorges",
+    "icon": "globe"
+  },
+  {
+    "id": 9,
+    "name": "Ouarzazate",
+    "subtitle": "Gateway to the Desert",
+    "slug": "ouarzazate",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Ouarzazate Morocco desert gateway and kasbah architecture",
+    "href": "/locations/ouarzazate",
+    "icon": "buildingOffice"
+  },
+  {
+    "id": 10,
+    "name": "Essaouira",
+    "subtitle": "Atlantic Coast",
+    "slug": "essaouira",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Essaouira Morocco medina and Atlantic coast",
+    "href": "/locations/essaouira",
+    "icon": "map"
+  },
+  {
+    "id": 11,
+    "name": "Rabat",
+    "subtitle": "Capital City",
+    "slug": "rabat",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Rabat Morocco historic landmarks and city views",
+    "href": "/locations/rabat",
+    "icon": "buildingLibrary"
+  },
+  {
+    "id": 12,
+    "name": "Casablanca",
+    "subtitle": "Modern Morocco",
+    "slug": "casablanca",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Casablanca Morocco city and Hassan II Mosque",
+    "href": "/locations/casablanca",
+    "icon": "buildingOffice"
+  },
+  {
+    "id": 13,
+    "name": "Tangier",
+    "subtitle": "Gateway to Africa",
+    "slug": "tangier",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Tangier Morocco overlooking the Strait of Gibraltar",
+    "href": "/locations/tangier",
+    "icon": "map"
+  },
+  {
+    "id": 14,
+    "name": "Asilah",
+    "subtitle": "White Coastal Town",
+    "slug": "asilah",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "White and blue streets of Asilah Morocco",
+    "href": "/locations/asilah",
+    "icon": "home"
+  },
+  {
+    "id": 15,
+    "name": "Tetouan",
+    "subtitle": "Andalusian Heritage",
+    "slug": "tetouan",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Tetouan Morocco medina and Andalusian architecture",
+    "href": "/locations/tetouan",
+    "icon": "buildingLibrary"
+  },
+  {
+    "id": 16,
+    "name": "Meknes",
+    "subtitle": "Imperial Heritage",
+    "slug": "meknes",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Historic gates and imperial architecture in Meknes Morocco",
+    "href": "/locations/meknes",
+    "icon": "buildingLibrary"
+  },
+  {
+    "id": 17,
+    "name": "Ifrane",
+    "subtitle": "Alpine Morocco",
+    "slug": "ifrane",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Ifrane Morocco mountain town and green landscape",
+    "href": "/locations/ifrane",
+    "icon": "home"
+  },
+  {
+    "id": 18,
+    "name": "Midelt",
+    "subtitle": "Middle Atlas Stop",
+    "slug": "midelt",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Midelt Morocco with Middle Atlas mountain scenery",
+    "href": "/locations/midelt",
+    "icon": "globe"
+  },
+  {
+    "id": 19,
+    "name": "Erfoud",
+    "subtitle": "Fossil Town",
+    "slug": "erfoud",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Erfoud Morocco desert town near the Sahara",
+    "href": "/locations/erfoud",
+    "icon": "sun"
+  },
+  {
+    "id": 20,
+    "name": "Rissani",
+    "subtitle": "Historic Desert Market",
+    "slug": "rissani",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Rissani Morocco traditional market near Merzouga",
+    "href": "/locations/rissani",
+    "icon": "home"
+  },
+  {
+    "id": 21,
+    "name": "Zagora",
+    "subtitle": "Draa Valley Desert Town",
+    "slug": "zagora",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Zagora Morocco desert landscape and palm oasis",
+    "href": "/locations/zagora",
+    "icon": "sun"
+  },
+  {
+    "id": 22,
+    "name": "Draa Valley",
+    "subtitle": "Palm Oasis Route",
+    "slug": "draa-valley",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Draa Valley Morocco palm groves and kasbahs",
+    "href": "/locations/draa-valley",
+    "icon": "globe"
+  },
+  {
+    "id": 23,
+    "name": "Skoura",
+    "subtitle": "Palm Oasis",
+    "slug": "skoura",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Skoura Morocco palm oasis and traditional kasbah",
+    "href": "/locations/skoura",
+    "icon": "home"
+  },
+  {
+    "id": 24,
+    "name": "Rose Valley",
+    "subtitle": "Valley of Roses",
+    "slug": "rose-valley",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Rose Valley Morocco landscape near Kelaat Mgouna",
+    "href": "/locations/rose-valley",
+    "icon": "globe"
+  },
+  {
+    "id": 25,
+    "name": "Kelaat Mgouna",
+    "subtitle": "Rose Capital",
+    "slug": "kelaat-mgouna",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Kelaat Mgouna Morocco in the Valley of Roses",
+    "href": "/locations/kelaat-mgouna",
+    "icon": "home"
+  },
+  {
+    "id": 26,
+    "name": "Khamlia",
+    "subtitle": "Gnawa Village",
+    "slug": "khamlia",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Khamlia village near Merzouga known for Gnawa music",
+    "href": "/locations/khamlia",
+    "icon": "home"
+  },
+  {
+    "id": 27,
+    "name": "Agadir",
+    "subtitle": "Beach & Sun",
+    "slug": "agadir",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Agadir Morocco beach and Atlantic coastline",
+    "href": "/locations/agadir",
+    "icon": "sun"
+  },
+  {
+    "id": 28,
+    "name": "Taroudant",
+    "subtitle": "Little Marrakech",
+    "slug": "taroudant",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Taroudant Morocco historic city walls and medina",
+    "href": "/locations/taroudant",
+    "icon": "buildingOffice"
+  },
+  {
+    "id": 29,
+    "name": "Ourika Valley",
+    "subtitle": "Atlas Escape",
+    "slug": "ourika-valley",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Ourika Valley Morocco river and Atlas Mountains landscape",
+    "href": "/locations/ourika-valley",
+    "icon": "globe"
+  },
+  {
+    "id": 30,
+    "name": "Volubilis",
+    "subtitle": "Roman Ruins",
+    "slug": "volubilis",
+    "image": "/plan/plan-your-morocco-tour-hero-extracted.jpg",
+    "alt": "Ancient Roman ruins of Volubilis in Morocco",
+    "href": "/locations/volubilis",
+    "icon": "buildingLibrary"
+  }
+]

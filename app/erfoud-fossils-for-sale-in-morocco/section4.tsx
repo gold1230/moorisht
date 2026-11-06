@@ -1,0 +1,8 @@
+import {SectionFrame} from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section4(){return <SectionFrame id="moroccan-trilobites-for-sale-what-you-should-know" index={4} label="ANCIENT MARINE LIFE" title="Moroccan Trilobites for Sale: What You Should Know">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A trilobite is an extinct marine arthropod, not a dinosaur. Its body has three lengthwise lobes and many visible segments, which is where the name comes from. Trilobites lived for hundreds of millions of years before disappearing at the end of the Permian period. Moroccan fossils can preserve a remarkable amount of detail, including compound eyes, fine ridges and sometimes spines.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">It takes skill to remove a trilobite from its surrounding rock. Some excellent specimens are naturally incomplete, while others have missing areas filled or repaired so they look more attractive on display. Restoration is not automatically a reason to reject an item. What matters is whether the seller explains it clearly and the price reflects the true condition.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">If you are buying your first trilobite, compare several examples and look at the fossil from the side as well as from above. Ask what proportion is original, whether the head and tail belong together, and if there are photographs from the preparation process. For rare or costly pieces, independent expert assessment is worth considering.</p>
+<ArticlePhoto name="trilobite"/>
+</SectionFrame>;}

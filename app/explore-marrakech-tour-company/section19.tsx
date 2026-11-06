@@ -1,0 +1,8 @@
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+
+export default function Section19(){return <SectionFrame id="marrakech-airport-transport-logistics" index={19} label="ARRIVE WITHOUT STRESS" title="Airport Transfers and Practical Tour Logistics in Marrakech">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Landing in a new city feels easier when you already know where to meet your driver. Ask for the pickup location, contact number and the name to look for on arrival. If your flight is delayed, know whether your transfer provider monitors changes or expects an update from you. These small arrangements make a big difference after a long day of travel.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Many riads are located inside the old medina, where vehicles cannot always reach the front door. Your driver may need to drop you at a nearby street and help arrange the final walk through narrow lanes. This is normal in parts of Marrakech, but travelers with large luggage or limited mobility should know about it before booking.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For a multi-day trip, confirm departure time, luggage space, where the driver will stop for meals, and whether the trip ends at your hotel, the airport or another city. A reliable tour company gives these details in writing so that the journey begins clearly and comfortably.</p>
+<FeatureCards items={[["Meet-up point", "Know exactly where your driver waits"], ["Medina access", "Confirm walking distance to your riad"], ["Luggage", "Ask about bags for multi-day routes"], ["Final drop-off", "Know whether the tour ends at hotel or airport"]]}/>
+</SectionFrame>;}

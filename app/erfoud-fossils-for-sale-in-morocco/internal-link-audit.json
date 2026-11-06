@@ -1,0 +1,32 @@
+{
+  "one_morocco_link": 1,
+  "contextual_links": 22,
+  "distinct_linked_pages": 17,
+  "links": {
+    "/morocco/": 1,
+    "/erfoud-sahara-tours-4x4-desert-vehicles/": 4,
+    "/city-of-merzouga-easy-travel-guide/": 2,
+    "/one-week-in-morocco-itinerary/": 1,
+    "/tour/3-days-desert-tour-from-marrakech-to-merzouga/": 1,
+    "/morocco-fes-desert-tours/": 1,
+    "/exploring-trusted-casablanca-travel-agency/": 1,
+    "/morocco-general-information-for-travelers/": 1,
+    "/activity/camel-trekking-in-the-desert/": 1,
+    "/marrakech-desert-tours/": 2,
+    "/errachidia-desert-tours/": 1,
+    "/moroccan-food-tour-the-tasty-heart-of-morocco/": 1,
+    "/all-morocco-tours-packages/": 1,
+    "/contact/": 1,
+    "/top-5-best-merzouga-luxury-desert-camps/": 1,
+    "/bird-watching-tours-morocco/": 1,
+    "/morocco-student-tour-educational-trips-cultural/": 1
+  },
+  "sections": 25,
+  "photo_or_illustration_placements": 12,
+  "bundled_illustrations": [
+    "authenticity.svg",
+    "packing.svg",
+    "types.svg",
+    "workshop.svg"
+  ]
+}

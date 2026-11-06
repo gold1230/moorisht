@@ -1,0 +1,14 @@
+import { ArticleSection, GuideTable } from "./ArticleElements";
+
+export default function Section13() {
+  return (
+    <ArticleSection id="one-week-in-morocco-tour-cost-what-changes-the-price" label="Costs and Value" title="One Week in Morocco Tour Cost: What Changes the Price?">
+      <p className="mt-5 text-lg leading-8 text-gray-700">The price of a <strong className="font-bold text-slate-900">7-day Morocco tour package</strong> depends on your route, group size, accommodation level, season and the transport you choose. A private driver for two travelers will be priced differently from a larger shared group. Staying in a standard riad and camp will also cost less than choosing boutique hotels and an upgraded luxury desert camp.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Rather than promising a fixed price for every traveler, Moorish Tour can prepare a quotation based on your dates and the places you want to visit. This helps you compare real costs and makes it easier to see which meals, activities and visits are included. A lower advertised headline price may not cover the same services as another tour.</p>
+      <GuideTable headings={["Budget item", "What affects the cost", "What you should confirm"]} rows={[["Vehicle and driver", "Private 4×4, family vehicle or shared minibus", "Pickup, drop-off, luggage, fuel, group size"], ["Accommodation", "Hotel rating, room category, desert camp type", "Private bathroom, breakfast, location"], ["Local guides", "City walking guide, mountain guide or specialized visits", "Which guided visits are included"], ["Meals", "Breakfast, lunches and dinners differ by package", "Exact meal plan and drinks"], ["Activities", "Camel trek, 4×4 route, entrance tickets and workshops", "Included activities versus extras"], ["Travel season", "Popular dates may have fewer room choices", "Price validity and booking deadlines"]]} />
+      <h3 id="one-week-in-morocco-tour-cost-what-changes-the-price-private-morocco-tour-or-small-group-tour" className="mt-10 scroll-mt-28 text-2xl font-bold leading-tight text-[#102043] sm:text-3xl">Private Morocco Tour or Small Group Tour?</h3>
+      <p className="mt-5 text-lg leading-8 text-gray-700">A private Morocco tour is suitable for couples and families who want more control over the schedule. You may choose a slower morning, extra photo stops or a quieter type of accommodation. Shared group tours can be more economical and social, although departure times and stops are usually fixed. Both can be enjoyable when you know the difference before booking.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Remember to leave room in your own budget for lunches not included in the package, drinks, optional entrance tickets, souvenirs and tips if you wish to give them. Cash in Moroccan dirhams is useful for small village shops and cafés, even if you also travel with a payment card.</p>
+    </ArticleSection>
+  );
+}

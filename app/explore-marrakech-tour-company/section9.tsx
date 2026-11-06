@@ -1,0 +1,12 @@
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+import { SectionFrame, InfoPanel, CompareTable } from "./ArticleElements";
+import { tables } from "./tables";
+
+export default function Section9(){return <SectionFrame id="agafay-desert-vs-sahara-marrakech" index={9} label="KNOW THE DIFFERENCE" title="Agafay Desert or Sahara Desert: Which Trip Should You Book?">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">This is one of the most important choices for travelers planning a Marrakech desert trip. Agafay is a rocky, open landscape relatively close to Marrakech. Visitors often go there for sunset, an evening meal, an outdoor activity or a nearby camp stay. Its wide views are beautiful, but it does not have the tall golden sand dunes most people imagine when they hear the word Sahara.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For large dunes, look toward <PlaceHoverCard place="merzouga">Merzouga</PlaceHoverCard> and <PlaceHoverCard place="erg-chebbi">Erg Chebbi</PlaceHoverCard>. Our <Link href="/city-of-merzouga-easy-travel-guide/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">easy Merzouga travel guide</Link> explains the dune area, camps and local activities. Reaching this part of the Sahara from Marrakech is a much longer journey that crosses mountains and southern valleys. It is better enjoyed as a multi-day tour, with enough time for the road, an overnight stay and a quiet moment on the dunes at sunset or sunrise.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A tour company should explain this difference honestly. If you have only an afternoon available, Agafay can be an enjoyable option. If your dream is a camel trek among huge dunes and a Sahara camp night, plan a proper longer route through <Link href="/marrakech-desert-tours/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">Marrakech desert tours</Link> rather than expecting to arrive and return in one day.</p>
+<CompareTable headings={tables.deserts.headings} rows={tables.deserts.rows}/>
+<InfoPanel title="Important travel distinction"><p>Agafay is not the same as the big sand dunes at Merzouga. A true Merzouga road trip from Marrakech normally needs several days.</p></InfoPanel>
+</SectionFrame>;}

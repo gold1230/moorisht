@@ -1,0 +1,331 @@
+/* =================================
+   MOORISH TOUR MAP
+================================= */
+
+.tour-map-wrapper {
+  width: 100%;
+  overflow: hidden;
+  z-index: 1;
+  border: 1px solid #e8e8e8;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+
+/* HEADER */
+
+.tour-map-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 24px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.tour-map-label {
+  display: block;
+  margin-bottom: 5px;
+  color: #f28c28;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.tour-map-title {
+  margin: 0;
+  color: #172033;
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.tour-map-badge {
+  padding: 8px 13px;
+  border-radius: 30px;
+  background: #fff5e9;
+  color: #e87917;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+
+/* MAP */
+
+.tour-map-container {
+  position: relative;
+}
+
+.tour-map {
+  width: 100%;
+  height: 450px;
+}
+
+
+/* REMOVE LEAFLET DEFAULT BORDER */
+
+.leaflet-container {
+  font-family: inherit;
+}
+
+.leaflet-control-attribution {
+  font-size: 9px !important;
+}
+
+
+/* MARKER */
+
+.custom-tour-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.tour-marker-wrapper {
+  position: relative;
+  width: 44px;
+  height: 52px;
+}
+
+.tour-marker {
+  position: absolute;
+  top: 0;
+  left: 2px;
+
+  width: 40px;
+  height: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+
+  background: #f28c28;
+
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 800;
+
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.22);
+}
+
+.tour-marker::after {
+  content: "";
+
+  position: absolute;
+
+  bottom: -8px;
+
+  width: 0;
+  height: 0;
+
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 10px solid #f28c28;
+}
+
+
+/* MARKER SHADOW */
+
+.tour-marker-shadow {
+  position: absolute;
+
+  left: 13px;
+  bottom: 0;
+
+  width: 18px;
+  height: 5px;
+
+  border-radius: 50%;
+
+  background: rgba(0, 0, 0, 0.2);
+
+  filter: blur(2px);
+}
+
+
+/* POPUP */
+
+.tour-popup {
+  min-width: 190px;
+  padding: 3px;
+}
+
+.tour-popup-day {
+  margin-bottom: 4px;
+
+  color: #f28c28;
+
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.tour-popup-title {
+  color: #172033;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.tour-popup-description {
+  margin-top: 6px;
+
+  color: #667085;
+
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+
+/* LEGEND */
+
+.tour-map-legend {
+  position: absolute;
+
+  left: 18px;
+  bottom: 18px;
+
+  z-index: 500;
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 9px 12px;
+
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+
+  background: rgba(255, 255, 255, 0.95);
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+
+  color: #555;
+  font-size: 11px;
+}
+
+.legend-route {
+  width: 24px;
+  height: 4px;
+
+  border-radius: 10px;
+
+  background: #f28c28;
+}
+
+
+/* LOCATIONS */
+
+.tour-map-locations {
+  display: grid;
+
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(150px, 1fr)
+  );
+
+  border-top: 1px solid #eeeeee;
+}
+
+.tour-map-location {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+
+  padding: 15px 18px;
+
+  border-right: 1px solid #eeeeee;
+}
+
+.location-number {
+  width: 28px;
+  height: 28px;
+
+  flex-shrink: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+
+  background: #fff1df;
+
+  color: #e87917;
+
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.location-day {
+  margin-bottom: 2px;
+
+  color: #9a9a9a;
+
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+}
+
+.location-name {
+  color: #273142;
+
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* Leaflet layers */
+.tour-map-wrapper .leaflet-pane {
+  z-index: 1;
+}
+
+.tour-map-wrapper .leaflet-top,
+.tour-map-wrapper .leaflet-bottom {
+  z-index: 2;
+}
+
+/* Your custom overlay */
+.tour-map-wrapper .tour-map-legend {
+  z-index: 3;
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+
+  .tour-map-header {
+    padding: 17px;
+  }
+
+  .tour-map-title {
+    font-size: 18px;
+  }
+
+  .tour-map-badge {
+    display: none;
+  }
+
+  .tour-map {
+    height: 350px;
+  }
+
+  .tour-map-locations {
+    display: flex;
+
+    overflow-x: auto;
+
+    scrollbar-width: none;
+  }
+
+  .tour-map-locations::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tour-map-location {
+    min-width: 155px;
+
+    border-bottom: none;
+  }
+
+}

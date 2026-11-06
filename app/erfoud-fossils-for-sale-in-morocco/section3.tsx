@@ -1,0 +1,8 @@
+import {SectionFrame} from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section3(){return <SectionFrame id="why-is-erfoud-famous-for-fossils" index={3} label="GEOLOGY MADE SIMPLE" title="Why Is Erfoud Famous for Fossils?">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Long before today’s desert roads and palm groves, parts of what is now southeastern Morocco were covered by shallow seas at different times. Marine animals lived there, died, and were sometimes buried in mud or sand. Over very long periods, sediment became rock. In suitable conditions, hard shells and skeletons left impressions or mineral-rich remains that people can now recognize as fossils.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">There is no single age for all fossils sold in Erfoud. Trilobites come from much older periods than the ammonites familiar from later seas, and some fossils displayed in local markets are sourced from other Moroccan regions. That is why a seller who simply says “500 million years old” for every object has not yet given you a reliable identification.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The town also matters because generations of local workers have developed skills in sawing, cleaning, preparing and polishing fossil-rich stone. Workshops make geology visible to visitors. A good demonstration can show the difference between exposing a natural fossil and producing a decorative finish, while explaining why both kinds of work require care.</p>
+<ArticlePhoto name="oasis"/>
+</SectionFrame>;}

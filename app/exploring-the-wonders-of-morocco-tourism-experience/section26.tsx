@@ -1,0 +1,9 @@
+import { SectionFrame, CompareTable } from "./ArticleElements";
+export default function Section26(){
+  return <SectionFrame id={"best-time-to-visit-morocco"} label={"SEASONS"} title={"When Is the Best Time to Take a Morocco Tour?"} index={26}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Spring and autumn are often comfortable for itineraries that combine cities, mountains and desert. Days can be pleasant for walking, although the temperature still changes across regions. Summer brings long days, but inland heat can be intense in Marrakech and the southeast. Winter may offer clear city sightseeing weather while bringing cold nights to the dunes and mountain snow at higher elevations.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">There is no single perfect month for every kind of Morocco holiday. A traveler hoping to hike in the mountains needs different conditions from someone who wants coastal cafés and easy city walks. If your dates are fixed, choose the route that suits the season instead of trying to force every experience into it.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Pack in layers and discuss any weather-sensitive activities in advance. A desert sunset is not guaranteed to have clear skies, and a high-mountain road may need to be changed after heavy weather. Good travel planning leaves alternatives open.</p>
+<CompareTable headings={["When", "What can work well", "What to remember"]} rows={[["March–May", "Cities, valleys, mountain scenery", "Conditions vary by altitude; spring evenings can be cool"], ["June–August", "Coastal towns and early city visits", "Strong inland and desert heat; adapt activity times"], ["September–November", "City-and-desert circuits", "Later sunsets become earlier; some nights cool"], ["December–February", "Cities, winter light and quieter travel", "Cold desert nights and possible mountain snow"]]}/>
+  </SectionFrame>;
+}

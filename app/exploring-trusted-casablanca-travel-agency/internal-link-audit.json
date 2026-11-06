@@ -1,0 +1,52 @@
+{
+  "internal_links": 32,
+  "unique_internal_targets": 21,
+  "morocco_links": 1,
+  "linked_pages": {
+    "/3-days-in-morocco-tours-ideas-and-travel-tips/": 1,
+    "/all-morocco-tours-packages/": 5,
+    "/city-of-merzouga-easy-travel-guide/": 1,
+    "/contact/": 3,
+    "/erfoud-sahara-tours-4x4-desert-vehicles/": 1,
+    "/marrakech-desert-tours/": 1,
+    "/moroccan-food-tour-the-tasty-heart-of-morocco/": 1,
+    "/morocco-expedition-the-ultimate-journey/": 1,
+    "/morocco-fes-desert-tours/": 1,
+    "/morocco-wonders-tour-the-ultimate-morocco-tour/": 1,
+    "/morocco/": 1,
+    "/one-week-in-morocco-itinerary/": 1,
+    "/plan-your-morocco-tour/": 4,
+    "/top-5-best-merzouga-luxury-desert-camps/": 1,
+    "/tour/12-days-morocco-tour-from-casablanca-to-marrakech/": 3,
+    "/tour/3-day-tour-from-casablanca-rabat-to-the-sahara-desert/": 1,
+    "/tour/3-days-desert-tour-from-marrakech-to-merzouga/": 1,
+    "/tour/3-days-tour-from-fes-to-merzouga/": 1,
+    "/tour/4-days-tour-from-casablanca-rabat-to-sahara-desert-via-meknes-and-midelt/": 1,
+    "/tour/morocco-itinerary-7-days-from-marrakech/": 1,
+    "/ultimate-guide-what-to-wear-in-marrakech-morocco/": 1
+  },
+  "first_mention_place_hover_cards": [
+    "casablanca",
+    "rabat",
+    "fes",
+    "marrakech",
+    "merzouga",
+    "chefchaouen",
+    "essaouira"
+  ],
+  "hover_card_count": 7,
+  "photo_placements": 9,
+  "distinct_photos": 9,
+  "image_paths": {
+    "opening": "public/blog/content/travelers-exploring-morocco-on-a-desert-journey-viewpoint.jpg",
+    "group": "public/blog/content/group-travelers-merzouga-sahara-desert-tour.jpg",
+    "road": "public/blog/content/road-through-southern-morocco-during-marrakech-to-merzouga-desert-tour.jpg",
+    "kasbah": "public/blog/content/travelers-visiting-ait-ben-haddou-ksar-morocco.jpg",
+    "atlas": "public/blog/content/mountain-road-through-tizi-n-tichka-pass-in-the-high-atlas-mountains.jpg",
+    "desert": "public/blog/content/camel-riders-crossing-erg-chebbi-dunes-merzouga-morocco.jpg",
+    "camp": "public/blog/content/sahara-desert-camp-experience-near-erg-chebbi-dunes-merzouga.jpg",
+    "local": "public/blog/content/tourists-visiting-nomad-tent-merzouga-desert.jpg",
+    "fourbyfour": "public/blog/content/4x4-vehicle-exploring-desert-landscapes-around-merzouga-and-erg-chebbi.jpg"
+  },
+  "external_competitor_links": 0
+}

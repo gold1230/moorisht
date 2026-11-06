@@ -1,0 +1,12 @@
+import Link from "next/link";
+import { SectionFrame, Timeline } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section22(){
+  return <SectionFrame id={"ten-day-grand-tour"} label={"BEST BALANCED ROUTE"} title={"Ten Days in Morocco: Imperial Cities, Mountains and the Sahara"} index={22}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Ten days often give first-time visitors a better balance between variety and enjoyment. Starting in Tangier, you can explore the northern atmosphere, continue through Chefchaouen, spend time in Fes, cross the Middle Atlas and reach the Sahara. After the dunes and southern gorges, the route moves toward Marrakech over the High Atlas.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">This is still an active road journey, but two nights in an important city can make a significant difference. A full day in Fes is useful for understanding its medina, while a less crowded schedule in Marrakech lets you enjoy the city after the drive. If you have a late-night flight or children needing rest, discuss adapting the last day rather than filling every hour.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Our <Link href="/tour/10-days-in-morocco-tour-from-tangier/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">10-day Tangier tour itinerary</Link> shows how these destinations can connect. The route below is a practical example of the general idea, and any actual package should confirm the overnight towns, driving pace and included guiding.</p>
+<Timeline items={[["Day 1 — Arrive in Tangier", "Northern gateway, old town and rest."], ["Day 2 — Chefchaouen", "Drive into the Rif and enjoy the blue streets."], ["Day 3 — Fes", "Travel south to Fes; settle into a riad."], ["Day 4 — Explore Fes", "Full guided cultural day in the medina."], ["Day 5 — Middle Atlas journey", "Forests and mountain landscapes; overnight en route south."], ["Day 6 — Merzouga", "Reach the desert and enjoy dunes and camp overnight."], ["Day 7 — Todra and Dades", "Scenic southern gorge and valley journey."], ["Day 8 — Ait Ben Haddou and Marrakech", "Historic ksar and High Atlas crossing."], ["Day 9 — Marrakech", "Guided city highlights with time for yourself."], ["Day 10 — Departure", "Transfer to Marrakech airport or travel onward."]]}/>
+<ArticlePhoto name="bluecity"/>
+  </SectionFrame>;
+}

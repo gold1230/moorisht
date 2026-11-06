@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+export default function Section31(){
+  return <SectionFrame id={"safety-etiquette-travel-tips"} label={"GOOD TO KNOW"} title={"Simple Tips for a Comfortable and Respectful Trip"} index={31}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Morocco welcomes visitors from many countries, and most travel worries become easier with a little preparation. Keep valuables secure in busy markets, use agreed transport arrangements and take care when crossing streets. If you become lost in a medina, ask a hotel, café or trustworthy local business for directions rather than following someone who demands payment to lead you.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Learn a few friendly greetings if you can. Ask before photographing people, especially in markets or rural communities. When buying souvenirs, take your time and agree on a total price before paying. If an offer does not feel right, a polite refusal is enough. Respect local rules and personal boundaries just as you would expect travelers to do at home.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Long days can be tiring. Carry water, take breaks and tell your guide when you need to slow down. Check entry and health requirements for your passport and personal circumstances before departure; these can change. Our <Link href="/morocco-general-information-for-travelers/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">general information for Morocco travelers</Link> offers another useful planning reference.</p>
+<FeatureCards items={[["Too many distant stops", "A packed itinerary can leave little time in each destination."], ["Unclear camp details", "Tent facilities and transfers vary greatly."], ["Forgetting the seasons", "Mountain cold and desert heat require different plans."], ["Booking on headline price", "Always compare exclusions and cancellation rules."]]}/>
+  </SectionFrame>;
+}

@@ -1,0 +1,12 @@
+{
+  "problem": "React category list used a non-unique key based on category.href; local version may have used category.count.",
+  "fixed_file": "Compentents/blogtour/sidebareBlogTou.tsx",
+  "fix": "Use category.id as React list key.",
+  "topics_checked": 9,
+  "topic_ids_unique": true,
+  "duplicated_href": {
+    "/morocco-desert-tours": 2
+  },
+  "blog_post_ids_unique": true,
+  "notes": "TypeScript syntax parse and existing route validation should be run before deployment. A full Next.js production build was not executed here."
+}

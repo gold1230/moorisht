@@ -1,0 +1,15 @@
+import { ArticleSection, ArticleNote } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+
+export default function Section1(){
+return <ArticleSection id="casablanca-travel-agency-guide" label="START HERE" title="Casablanca Travel Agency: How to Plan a Trip with Confidence" first>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Arriving in a busy new city can feel exciting and a little confusing at the same time. You may have an airport pickup to arrange, a hotel to find and a list of places you want to see. A good <PlaceHoverCard place="casablanca">Casablanca</PlaceHoverCard> travel agency makes those first decisions easier. It helps you turn ideas into a route that fits your dates, comfort level and the experiences you care about most.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Casablanca is a natural gateway to <Link href="/morocco/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 hover:text-amber-800">Morocco</Link>. The city has a grand Atlantic coastline, working neighborhoods, modern architecture and the extraordinary Hassan II Mosque. It is also a practical starting point for trips to <PlaceHoverCard place="rabat">Rabat</PlaceHoverCard>, <PlaceHoverCard place="fes">Fes</PlaceHoverCard>, <PlaceHoverCard place="marrakech">Marrakech</PlaceHoverCard> and, with enough time, the Sahara. You can spend one day getting to know the city or start a longer private journey from your arrival airport.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700"><strong className="font-semibold text-slate-900">The best agency is not simply the one offering the lowest price.</strong> Look for a clear itinerary, realistic driving days, straightforward inclusions and a team that responds carefully to your questions. Moorish Tour helps travelers compare <Link href="/all-morocco-tours-packages/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">Morocco tour packages</Link> and <Link href="/plan-your-morocco-tour/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">design a personal travel plan</Link> based on their starting city and interests.</p>
+<ArticleNote title="The quick answer"><p>A trusted Casablanca travel agency should explain who will meet you, what vehicle you will use, where you will sleep, which visits and meals are included, and what happens if plans change. Ask for the final program and price in writing before you pay a deposit.</p></ArticleNote>
+<ArticlePhoto name="opening" />
+<p className="mt-5 text-[17px] leading-8 text-slate-700">This guide covers city highlights, guided tours, airport arrivals, sample itineraries, Sahara choices, tour costs and essential booking questions. It is designed to help first-time visitors and returning travelers make confident decisions without wasting time or feeling rushed.</p>
+</ArticleSection>;
+}

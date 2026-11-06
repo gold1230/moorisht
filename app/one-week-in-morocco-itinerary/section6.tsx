@@ -1,0 +1,19 @@
+import { ArticlePicture, ArticleSection, GuideTable, TravelQuote } from "./ArticleElements";
+import Link from "next/link";
+import CampImage from "@/public/blog/content/sahara-desert-camp-experience-near-erg-chebbi-dunes-merzouga.jpg";
+
+export default function Section6() {
+  return (
+    <ArticleSection id="sahara-desert-adventure-merzouga-camel-trekking-and-desert-camps" label="Golden Dunes" title="Sahara Desert Adventure: Merzouga, Camel Trekking and Desert Camps">
+      <p className="mt-5 text-lg leading-8 text-gray-700">For many first-time visitors, a <strong className="font-bold text-slate-900">Sahara Desert adventure</strong> is the main reason to come to Morocco. The famous dunes of Erg Chebbi rise near Merzouga in the southeast of the country. Reaching them from Marrakech or Fes takes time, but the landscapes along the way are part of the experience: mountain roads, kasbahs, palm valleys, fossil areas and small towns where life moves at a different pace.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">On arrival in Merzouga, guests can choose from several desert experiences. A camel trek is a traditional way to enjoy the dunes at sunset, while a 4×4 transfer may be more suitable for travelers who cannot or prefer not to ride a camel. Photography stops, short walks and quiet time watching the sand change color are often just as memorable as the journey itself.</p>
+      <h3 id="sahara-desert-adventure-merzouga-camel-trekking-and-desert-camps-what-happens-during-a-night-in-a-desert-camp" className="mt-10 scroll-mt-28 text-2xl font-bold leading-tight text-[#102043] sm:text-3xl">What Happens During a Night in a Desert Camp?</h3>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Your overnight stay may begin with mint tea at the camp, followed by a traditional dinner and time around the fire. Depending on the camp and weather, local musicians may perform, and you can look at the stars away from city lights. In the morning, many travelers wake up early to walk onto a nearby dune and watch sunrise before breakfast.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Accommodation is available at different comfort levels. Standard camps can offer simple private tents and shared or private facilities, while luxury camps often provide larger tents with attached bathrooms. The exact services vary, so always confirm hot water, electricity, heating, meal plans and luggage transfer before choosing a camp.</p>
+      <GuideTable headings={["Camp style", "Typical experience", "Before booking, ask about"]} rows={[["Standard desert camp", "Traditional tents, simple comfort and desert atmosphere", "Bathroom type, bedding, electricity"], ["Luxury desert camp", "Larger tents, upgraded furnishings and added privacy", "Private bathroom, heating, camp location"], ["Desert hotel or lodge", "Permanent building near the dunes and easy road access", "Distance to dunes, available camel or 4×4 trips"]]} />
+      <p className="mt-5 text-lg leading-8 text-gray-700">Moorish Tour can help organize <Link href="/top-5-best-merzouga-luxury-desert-camps/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">Sahara desert experiences</Link> as part of a longer route or a shorter tour from Erfoud, Fes or Marrakech. We can also explain the difference between paved-road transfers and optional off-road desert activities so that you know what is included.</p>
+      <ArticlePicture src={CampImage} alt="Comfortable camp tents in the Sahara Desert near the Erg Chebbi dunes" caption="Desert camps offer an opportunity to enjoy traditional food, quiet evenings and the golden dunes." />
+      <TravelQuote>In the Sahara, sometimes the most unforgettable moment is doing nothing at all—just watching the last light disappear behind the dunes.</TravelQuote>
+    </ArticleSection>
+  );
+}

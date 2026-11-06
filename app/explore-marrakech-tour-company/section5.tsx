@@ -1,0 +1,9 @@
+import { SectionFrame, FeatureCards, QuotePanel } from "./ArticleElements";
+
+export default function Section5(){return <SectionFrame id="marrakech-local-souks-artisans" index={5} label="MEET THE MAKERS" title="Discover Marrakech Souks and Traditional Craft Workshops">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The souks are one of Marrakech&apos;s greatest pleasures. Lanterns hang above small shops, woven fabrics add color to the lanes, and craftspeople work with leather, metal and wood. A guided walk can explain how different areas of the market developed and help you notice the skilled work behind an object instead of seeing the souks only as places to buy souvenirs.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">You do not have to shop to enjoy this experience. It is fine to ask questions, observe how an item is made, and politely decline a purchase. Before photographing a craftsperson, ask permission. When you do find something you love, take a moment to understand its materials, quality and price. A respectful conversation is usually more pleasant than feeling pressure to buy quickly.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">If your group enjoys culture more than shopping, say so clearly. You can spend extra time on architectural details, neighborhood history and small food markets. This is where a local Marrakech guide can help create a visit that reflects your interests instead of repeating the same stops for every traveler.</p>
+<FeatureCards items={[["Metal lanterns", "See patterns shaped by hand and traditional tools"], ["Leather workshops", "Learn about materials and artisan techniques"], ["Textiles and rugs", "Discover regional styles and everyday uses"], ["Food markets", "Explore breads, spices, olives and seasonal ingredients"]]}/>
+<QuotePanel>The nicest market memory may be a conversation with the maker, not the object in your bag.</QuotePanel>
+</SectionFrame>;}

@@ -1,0 +1,12 @@
+import Link from "next/link";
+import { SectionFrame, Timeline } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section15(){
+  return <SectionFrame id={"seven-day-route-from-spain"} label={"ONE WEEK"} title={"One Week in Morocco from Spain: Northern Cities and Fes"} index={15}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">With a full week, you can combine the north with Fes and a little more variety. A practical example starts in Tangier, continues to Chefchaouen, and finishes with two nights in Fes. You might add Meknes and Volubilis if you enjoy historical places and your pace allows it. Another version includes Rabat and returns to Tangier through the Atlantic corridor.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">One week is enough for a lovely introduction, but it is not ideal for racing from Tangier all the way through every famous Moroccan city and the Sahara and then driving back. Choose whether you want the <strong className="font-extrabold text-[#102043]">northern culture route</strong> or a <strong className="font-extrabold text-[#102043]">southern desert-focused route</strong> beginning closer to the dunes.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For more pacing advice, see <Link href="/one-week-in-morocco-itinerary/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">one-week Morocco trip ideas</Link> and <Link href="/morocco-general-information-for-travelers/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">general Morocco travel information</Link>. A little extra time in Fes often turns a good itinerary into a more meaningful one.</p>
+<Timeline items={[["Day 1 — Tangier arrival", "Easy city introduction and overnight."], ["Day 2 — Tangier sightseeing", "Spend a full day on the kasbah, medina and optional seaside stops."], ["Day 3 — Travel to Chefchaouen", "Mountain scenery, relaxed afternoon and overnight."], ["Day 4 — Chefchaouen to Fes", "A travel day with suitable pauses along the route."], ["Day 5 — Guided Fes visit", "Explore the medina and artisan quarters with an official local guide."], ["Day 6 — Fes or nearby history", "A calmer day, perhaps Meknes or Volubilis if you prefer."], ["Day 7 — Departure", "Transfer to your booked flight or allow a separate return to the ferry port."]]}/>
+<ArticlePhoto name="fes"/>
+  </SectionFrame>;
+}

@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, Checklist } from "./ArticleElements";
+export default function Section29(){
+  return <SectionFrame id={"how-to-choose-a-company"} label={"TRAVEL WITH CONFIDENCE"} title={"How to Choose a Trustworthy Morocco Tour Company"} index={29}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Begin with clear questions. Where will you be met? Who will drive? Which days include a professional local guide? What are the names or categories of your hotels? Is the Sahara camp reached by camel, 4x4 or another method? A good tour provider should be comfortable answering without pushing you to make an immediate payment.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Check that the itinerary makes geographic sense. A package that promises Tangier, Chefchaouen, Fes, Merzouga, Marrakech and Essaouira in just a few days is likely to involve more driving than sightseeing. Ask for the expected long road days, particularly when crossing mountains or returning from the Sahara. The best travel experience should not rely on unrealistic timing.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Before you pay, get the price, currency, deposit, cancellation terms and what is included in writing. If the trip is customized, review the final route carefully. Moorish Tour&apos;s <Link href="/plan-your-morocco-tour/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">travel planning page</Link> is a practical place to begin discussing your interests and dates.</p>
+<Checklist items={["Exact airport, port or hotel pickup", "Actual itinerary and overnight towns", "Realistic driving days and free time", "Vehicle and whether local city guides are included", "Accommodation class and desert camp facilities", "Meals, tickets, activities and tips included or excluded", "Total price, deposit, refunds and change policy", "Room accessibility and family needs where relevant"]}/>
+  </SectionFrame>;
+}

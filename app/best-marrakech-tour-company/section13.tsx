@@ -1,0 +1,14 @@
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+import { SectionFrame, Timeline } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+
+
+export default function Section13(){return <SectionFrame id="seven-day-morocco-tour-from-marrakech" index={13} label="ONE-WEEK JOURNEY" title="A 7-Day Morocco Tour Starting in Marrakech">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Seven days open the door to a much broader experience. You could spend time in Marrakech, travel over the Atlas Mountains, explore old kasbah areas and visit the Sahara before finishing in another city. A well-designed route connects overnight stops in a sensible order. It does not try to include every major city on a map just because the names are popular.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A one-way route from Marrakech toward Fes can be efficient if your arrival and departure flights support it. You can visit the southern valleys and Merzouga on the way north, then explore the medina of <PlaceHoverCard place="fes">Fes</PlaceHoverCard> at the end. If both flights are in Marrakech, you may prefer a round trip with fewer distant city stops. Travel days should always be compared with your actual flight times.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">You might want one full day in the dunes, extra time in the mountains or another overnight in a traditional village. Those preferences matter more than a rigid package name. A family with children may choose slower mornings, while a photographer may prefer early light and longer stays at scenic places.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For ideas, see our <Link href="/tour/morocco-itinerary-7-days-from-marrakech/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">7-day Morocco itinerary</Link>, <Link href="/one-week-in-morocco-itinerary/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">one week in Morocco guide</Link> or <Link href="/tour/morocco-itinerary-7-days-from-marrakech/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">7-day Marrakech-based tour</Link>. Confirm the exact itinerary before booking, especially if your last day includes an airport transfer.</p>
+<ArticlePhoto name="gorge"/>
+<Timeline items={[["Days 1–2", "Marrakech arrival, medina and cultural highlights"], ["Day 3", "High Atlas crossing and Ait Ben Haddou area"], ["Day 4", "Dades/Todra landscapes and southern valleys"], ["Day 5", "Merzouga, dunes and desert camp"], ["Day 6", "Northbound travel toward Fes"], ["Day 7", "Fes visit or departure according to your flight"]]}/>
+</SectionFrame>;}

@@ -1,0 +1,19 @@
+{
+  "releaseDate": "2026-10-14",
+  "sourceArchive": "moorishtour.7z",
+  "deployment": "Next.js App Router source",
+  "existingPageRoutes": 122,
+  "verifiedBlogRoutes": 33,
+  "verifiedTourRoutes": 17,
+  "verifiedDestinations": 30,
+  "verifiedPlaceHoverCards": 45,
+  "verifiedStaticInternalLinks": 1252,
+  "verifiedJsonLocalImages": 125,
+  "brokenCatalogRoutes": 0,
+  "brokenStaticInternalLinks": 0,
+  "brokenCatalogImages": 0,
+  "typescriptCheck": "passed (tsc --noEmit)",
+  "routeCheck": "passed (node scripts/validate-routes.mjs)",
+  "productionBuild": "Not run: original uploaded dependencies include Windows-only SWC; this offline Linux environment cannot download Linux SWC. Install fresh dependencies via npm ci on deployment host.",
+  "includedAssets": "local public/ images and local article assets; no dependencies/cache/secrets"
+}

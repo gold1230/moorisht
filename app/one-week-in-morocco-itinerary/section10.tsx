@@ -1,0 +1,16 @@
+import { ArticlePicture, ArticleSection, GuideTable } from "./ArticleElements";
+import RoadImage from "@/public/blog/content/road-through-southern-morocco-during-marrakech-to-merzouga-desert-tour.jpg";
+
+export default function Section10() {
+  return (
+    <ArticleSection id="one-week-in-morocco-from-marrakech-a-seven-day-round-trip" label="Return to Marrakech" title="One Week in Morocco from Marrakech: A Seven-Day Round Trip">
+      <p className="mt-5 text-lg leading-8 text-gray-700">If your flights both arrive and depart from Marrakech, a round trip may be easier than arranging transport from Fes. This version of a <strong className="font-bold text-slate-900">one-week Morocco itinerary from Marrakech</strong> focuses on the southern part of the country, where the High Atlas Mountains and Sahara Desert are the main experiences. The route involves travel days, but it does not require changing your departure airport.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">You can begin with the old medina and a night in a riad, then travel toward the mountain passes, Ait Ben Haddou and Dades Valley. The next stage takes you through Todra Gorge to the sand dunes of Merzouga. After some time in the Sahara, the return journey runs through the southern valleys and Ouarzazate area before crossing the Atlas Mountains to reach Marrakech again.</p>
+      <GuideTable headings={["Day", "Suggested schedule", "Sleep in"]} rows={[["1", "Arrive in Marrakech; easy walk and welcome dinner", "Marrakech"], ["2", "Guided city tour and free time in the souks", "Marrakech"], ["3", "High Atlas crossing and Ait Ben Haddou; drive to Dades", "Dades Valley"], ["4", "Todra Gorge and desert drive to Merzouga; camel trek", "Sahara camp"], ["5", "Merzouga area excursion and relaxed desert afternoon", "Merzouga"], ["6", "Leave Merzouga and follow a southern route toward Ouarzazate", "Ouarzazate area"], ["7", "Cross the High Atlas back to Marrakech; onward travel", "Marrakech / departure"]]} />
+      <h3 id="one-week-in-morocco-from-marrakech-a-seven-day-round-trip-why-we-recommend-an-overnight-stop-on-the-way-back" className="mt-10 scroll-mt-28 text-2xl font-bold leading-tight text-[#102043] sm:text-3xl">Why We Recommend an Overnight Stop on the Way Back</h3>
+      <p className="mt-5 text-lg leading-8 text-gray-700">Returning directly from Merzouga to Marrakech in one day is possible by road, but it can be a very long and tiring journey. An overnight stop around Ouarzazate or another suitable location can help break up the travel. It also allows time to enjoy the changing scenery instead of focusing only on arriving as fast as possible.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">If your departure flight on day seven is early, plan an extra night in Marrakech or modify the desert schedule. For a relaxed family holiday, you may also choose to shorten the Sahara portion and spend more nights around Marrakech or the mountains. The route should always be planned around real flight times.</p>
+      <ArticlePicture src={RoadImage} alt="Winding scenic road through southern Morocco on a desert circuit from Marrakech" caption="A Marrakech round trip is a good option when both flights use Marrakech, but sensible overnight stops make a big difference." />
+    </ArticleSection>
+  );
+}

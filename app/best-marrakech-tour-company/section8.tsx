@@ -1,0 +1,14 @@
+import Link from "next/link";
+import PlaceHoverCard from "@/Compentents/placeCard";
+import { SectionFrame, Timeline } from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+
+
+export default function Section8(){return <SectionFrame id="three-day-marrakech-merzouga-tour" index={8} label="SAHARA CLASSIC" title="3-Day Marrakech to Merzouga Desert Tour: What Really Happens?">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The classic three-day desert journey begins early, leaving Marrakech toward the High Atlas. You cross a mountain pass, see changing scenery, and often visit <PlaceHoverCard place="ait-ben-haddou">Ait Ben Haddou</PlaceHoverCard> before continuing toward a valley for the first night. This first day is part of the adventure, but there can be many hours in the vehicle. Regular breaks help, although they do not make the distances disappear.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">On the second day, a typical route continues through places such as <PlaceHoverCard place="dades-valley">Dades Valley</PlaceHoverCard> and <PlaceHoverCard place="todra-gorge">Todra Gorge</PlaceHoverCard>, depending on the exact package. You eventually reach the sandy landscape around Erg Chebbi. A camel trek or arranged 4×4 transfer may take you toward the camp, followed by dinner and a quiet night. Activities vary by operator, and extra experiences such as quad biking should never be assumed included.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The last day normally begins with an early sunrise opportunity before the long journey back to Marrakech. Travelers who have a flight that evening should discuss realistic return hours before booking. Road conditions, stops and weather can affect the schedule. If you want a slower pace with more time around the dunes, consider a four-day itinerary rather than squeezing everything into three.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Our <Link href="/tour/3-days-desert-tour-from-marrakech-to-merzouga/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">3 days Marrakech to Merzouga tour</Link> outlines the route, while the <Link href="/tour/4-days-tour-from-marrakech-to-merzouga/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">four-day Marrakech to Merzouga option</Link> may suit those with an extra night. The key is knowing how much of a short Sahara tour is a scenic road trip and how much time is actually spent at the dunes.</p>
+<ArticlePhoto name="road"/>
+<Timeline items={[["Day 1", "Marrakech, High Atlas and a southern valley overnight"], ["Day 2", "Gorges, desert scenery and Erg Chebbi camp"], ["Day 3", "Sunrise and a long road return to Marrakech"]]}/>
+</SectionFrame>;}

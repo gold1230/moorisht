@@ -1,0 +1,8 @@
+import { SectionFrame, Timeline } from "./ArticleElements";
+export default function Section25(){
+return <SectionFrame id="fourteen-day-grand-tour" label="COMPLETE JOURNEYS" title="Fourteen Days in Morocco: More Time for the Places You Love" index={25}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Two weeks is a comfortable starting point for a wider discovery tour. You can connect Casablanca, Rabat, Chefchaouen, Fes, the Sahara, southern valleys and Marrakech without turning every day into a transfer. Depending on your interests, you may also add Essaouira or another slower stop.</p>
+<Timeline items={[["Days 1–2 — Casablanca and Rabat", "Arrival and the Atlantic coast with time to recover from travel"], ["Days 3–4 — Chefchaouen", "Travel north and enjoy an overnight stay in the blue town"], ["Days 5–6 — Fes", "Explore history and craftsmanship with a local guide"], ["Day 7 — Middle Atlas", "Drive south with stops and an overnight if needed"], ["Days 8–9 — Merzouga", "Enjoy the dunes, nearby villages and relaxed desert time"], ["Days 10–11 — Valleys and kasbahs", "Todra, Dades, Ait Ben Haddou and the High Atlas"], ["Days 12–13 — Marrakech", "Discover the medina, local food and gardens"], ["Day 14 — Departure or coast extension", "Finish in Marrakech or adapt the last nights to include Essaouira"]]}/>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A fourteen-day trip can still feel rushed if too many places are added. Consider two-night stays in the destinations you care about most. That gives you room for both scheduled highlights and the small discoveries that make a holiday feel personal.</p>
+</SectionFrame>;
+}

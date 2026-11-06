@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-10-12",
+  "typescriptFiles": 41,
+  "sectionCount": 34,
+  "tocEntries": 34,
+  "faqCount": 18,
+  "localBundledWebpImages": 11,
+  "articlePhotoPlacements": 17,
+  "localImageImportCount": 12,
+  "uniqueHoverDestinations": [
+    "ait-ben-haddou",
+    "ouarzazate",
+    "todra-gorge",
+    "dades-valley",
+    "merzouga",
+    "erfoud",
+    "essaouira",
+    "meknes",
+    "marrakech",
+    "fes",
+    "chefchaouen",
+    "tangier",
+    "rabat",
+    "casablanca",
+    "high-atlas"
+  ],
+  "bodyMoroccoCountryLinks": 1,
+  "externalOutboundLinks": [],
+  "remoteImageSources": [],
+  "unusedImports": [],
+  "syntaxErrors": [],
+  "unresolvedRelativeImports": [],
+  "missingTocAnchors": [],
+  "missingSectionInToc": [],
+  "heroiconImportStatements": [
+    "import { ArrowRightIcon, CheckCircleIcon, MapPinIcon, LightBulbIcon } from \"@heroicons/react/24/outline\"",
+    "import { ArrowRightIcon } from \"@heroicons/react/24/outline\""
+  ]
+}

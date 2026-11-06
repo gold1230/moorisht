@@ -1,0 +1,234 @@
+{
+  "total_contextual_links": 50,
+  "distinct_targets": 26,
+  "urls": {
+    "/tour/": 3,
+    "/marrakech-desert-tours/": 3,
+    "/morocco-fes-desert-tours/": 2,
+    "/3-days-in-morocco-tours-ideas-and-travel-tips/": 2,
+    "/morocco-wonders-tour-the-ultimate-morocco-tour/": 2,
+    "/tour/3-days-desert-tour-from-marrakech-to-merzouga/": 4,
+    "/tour/morocco-itinerary-7-days-from-marrakech/": 3,
+    "/tour/3-days-from-fes-to-merzouga-desert/": 1,
+    "/tour/3-days-tour-from-fes-to-merzouga/": 1,
+    "/locations/merzouga/": 2,
+    "/tour/3-day-tour-from-casablanca-rabat-to-the-sahara-desert/": 2,
+    "/tour/12-days-morocco-tour-from-casablanca-to-marrakech/": 3,
+    "/morocco-desert-tours-from-tangier/": 1,
+    "/tour/10-days-in-morocco-tour-from-tangier/": 3,
+    "/errachidia-desert-tours/": 1,
+    "/tour/3-days-from-errachidia-to-merzouga/": 2,
+    "/erfoud-sahara-tours-4x4-desert-vehicles/": 2,
+    "/tour/morocco-itinerary-10-days-from-marrakech/": 1,
+    "/morocco-expedition-the-ultimate-journey/": 2,
+    "/activity/camel-trekking-in-the-desert/": 1,
+    "/locations/meknes/": 1,
+    "/about/": 2,
+    "/faq/": 2,
+    "/contact/": 2,
+    "/ultimate-guide-what-to-wear-in-marrakech-morocco/": 1,
+    "/BLOG/": 1
+  },
+  "anchors": [
+    {
+      "label": "Morocco tour collection",
+      "url": "/tour/"
+    },
+    {
+      "label": "Marrakech desert tours",
+      "url": "/marrakech-desert-tours/"
+    },
+    {
+      "label": "Fes desert tours",
+      "url": "/morocco-fes-desert-tours/"
+    },
+    {
+      "label": "three-day Morocco itinerary",
+      "url": "/3-days-in-morocco-tours-ideas-and-travel-tips/"
+    },
+    {
+      "label": "Morocco Wonders Tour guide",
+      "url": "/morocco-wonders-tour-the-ultimate-morocco-tour/"
+    },
+    {
+      "label": "tours from Marrakech",
+      "url": "/marrakech-desert-tours/"
+    },
+    {
+      "label": "3-day Marrakech to Merzouga desert tour",
+      "url": "/tour/3-days-desert-tour-from-marrakech-to-merzouga/"
+    },
+    {
+      "label": "7-day Morocco itinerary from Marrakech",
+      "url": "/tour/morocco-itinerary-7-days-from-marrakech/"
+    },
+    {
+      "label": "Fes desert tour",
+      "url": "/morocco-fes-desert-tours/"
+    },
+    {
+      "label": "Fes to Merzouga tour via Erfoud",
+      "url": "/tour/3-days-from-fes-to-merzouga-desert/"
+    },
+    {
+      "label": "3-day Fes to Merzouga desert tour",
+      "url": "/tour/3-days-tour-from-fes-to-merzouga/"
+    },
+    {
+      "label": "Erg Chebbi dunes in Merzouga",
+      "url": "/locations/merzouga/"
+    },
+    {
+      "label": "3-day Casablanca or Rabat to Sahara tour",
+      "url": "/tour/3-day-tour-from-casablanca-rabat-to-the-sahara-desert/"
+    },
+    {
+      "label": "12-day Casablanca to Marrakech tour",
+      "url": "/tour/12-days-morocco-tour-from-casablanca-to-marrakech/"
+    },
+    {
+      "label": "Tangier tour package",
+      "url": "/morocco-desert-tours-from-tangier/"
+    },
+    {
+      "label": "10-day Morocco itinerary from Tangier",
+      "url": "/tour/10-days-in-morocco-tour-from-tangier/"
+    },
+    {
+      "label": "Errachidia desert tour collection",
+      "url": "/errachidia-desert-tours/"
+    },
+    {
+      "label": "3-day Errachidia to Merzouga tour",
+      "url": "/tour/3-days-from-errachidia-to-merzouga/"
+    },
+    {
+      "label": "Erfoud 4×4 Sahara excursions",
+      "url": "/erfoud-sahara-tours-4x4-desert-vehicles/"
+    },
+    {
+      "label": "3 Days in Morocco travel guide",
+      "url": "/3-days-in-morocco-tours-ideas-and-travel-tips/"
+    },
+    {
+      "label": "Marrakech three-day desert itinerary",
+      "url": "/tour/3-days-desert-tour-from-marrakech-to-merzouga/"
+    },
+    {
+      "label": "seven-day Morocco tour from Marrakech",
+      "url": "/tour/morocco-itinerary-7-days-from-marrakech/"
+    },
+    {
+      "label": "10-day itinerary from Tangier",
+      "url": "/tour/10-days-in-morocco-tour-from-tangier/"
+    },
+    {
+      "label": "10-day itinerary from Marrakech",
+      "url": "/tour/morocco-itinerary-10-days-from-marrakech/"
+    },
+    {
+      "label": "12-day Casablanca to Marrakech package",
+      "url": "/tour/12-days-morocco-tour-from-casablanca-to-marrakech/"
+    },
+    {
+      "label": "Morocco Expedition guide",
+      "url": "/morocco-expedition-the-ultimate-journey/"
+    },
+    {
+      "label": "camel trekking in the desert",
+      "url": "/activity/camel-trekking-in-the-desert/"
+    },
+    {
+      "label": "Erfoud Sahara 4×4 guide",
+      "url": "/erfoud-sahara-tours-4x4-desert-vehicles/"
+    },
+    {
+      "label": "Merzouga travel destination page",
+      "url": "/locations/merzouga/"
+    },
+    {
+      "label": "Meknes",
+      "url": "/locations/meknes/"
+    },
+    {
+      "label": "Morocco Wonders Tour",
+      "url": "/morocco-wonders-tour-the-ultimate-morocco-tour/"
+    },
+    {
+      "label": "Marrakech desert tour",
+      "url": "/marrakech-desert-tours/"
+    },
+    {
+      "label": "About Moorish Tour page",
+      "url": "/about/"
+    },
+    {
+      "label": "Errachidia to Merzouga tour",
+      "url": "/tour/3-days-from-errachidia-to-merzouga/"
+    },
+    {
+      "label": "Marrakech to Merzouga three-day tour",
+      "url": "/tour/3-days-desert-tour-from-marrakech-to-merzouga/"
+    },
+    {
+      "label": "Casablanca to Sahara tour",
+      "url": "/tour/3-day-tour-from-casablanca-rabat-to-the-sahara-desert/"
+    },
+    {
+      "label": "FAQ page",
+      "url": "/faq/"
+    },
+    {
+      "label": "all Morocco tours listing",
+      "url": "/tour/"
+    },
+    {
+      "label": "contact Moorish Tour",
+      "url": "/contact/"
+    },
+    {
+      "label": "Marrakech clothing and packing guide",
+      "url": "/ultimate-guide-what-to-wear-in-marrakech-morocco/"
+    },
+    {
+      "label": "detailed three-day Marrakech route",
+      "url": "/tour/3-days-desert-tour-from-marrakech-to-merzouga/"
+    },
+    {
+      "label": "Marrakech seven-day package",
+      "url": "/tour/morocco-itinerary-7-days-from-marrakech/"
+    },
+    {
+      "label": "Tangier ten-day tour",
+      "url": "/tour/10-days-in-morocco-tour-from-tangier/"
+    },
+    {
+      "label": "Casablanca twelve-day tour",
+      "url": "/tour/12-days-morocco-tour-from-casablanca-to-marrakech/"
+    },
+    {
+      "label": "Moorish Tour blog",
+      "url": "/BLOG/"
+    },
+    {
+      "label": "Morocco expedition guide",
+      "url": "/morocco-expedition-the-ultimate-journey/"
+    },
+    {
+      "label": "official Moorish Tour frequently asked questions",
+      "url": "/faq/"
+    },
+    {
+      "label": "all of our listed Morocco tours",
+      "url": "/tour/"
+    },
+    {
+      "label": "Moorish Tour and our local approach",
+      "url": "/about/"
+    },
+    {
+      "label": "Moorish Tour contact page",
+      "url": "/contact/"
+    }
+  ]
+}

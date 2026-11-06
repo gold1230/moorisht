@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, Checklist } from "./ArticleElements";
+export default function Section16(){
+return <SectionFrame id="morocco-tours-from-usa" label="INTERNATIONAL ARRIVALS" title="Morocco Tours from the USA: What American Travelers Should Know" index={16}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For guests traveling from the United States, the first big decision is usually the arrival airport. Casablanca is a common gateway for long-haul journeys, while Marrakech can be a convenient start when flight connections line up. Compare total travel time, layovers and departure points rather than assuming one city will always have the best flight.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">According to U.S. government travel information checked in October 2026, <strong className="font-extrabold text-[#102043]">U.S. tourists generally do not need a visa for stays of 90 days or less</strong>. Passport requirements and travel advisories should be checked again before departure, since guidance can change. Do not rely on an old blog post as your final source for entry decisions.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">After a long overnight flight, consider an easy first afternoon and a comfortable sleep instead of starting a six-hour transfer. For seven or more days, Casablanca, Rabat, Fes and the Sahara can make sense as a wider route, while a Marrakech arrival works well for a southern circuit. Read our <Link href="/morocco-general-information-for-travelers/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">Morocco general information guide</Link> for more preparation ideas.</p>
+<Checklist items={["Confirm passport validity with official guidance", "Check the actual arrival airport on your ticket", "Allow time for immigration and transfers", "Tell your driver about flight changes", "Keep a first-night address available offline", "Consider a slower first day after long flights"]}/>
+</SectionFrame>;
+}

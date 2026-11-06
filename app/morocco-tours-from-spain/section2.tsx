@@ -1,0 +1,9 @@
+import { SectionFrame, FeatureCards, CompareTable } from "./ArticleElements";
+export default function Section2(){
+  return <SectionFrame id={"quick-planning-facts"} label={"AT A GLANCE"} title={"Quick Answers Before You Book"} index={2}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For travelers asking whether a Morocco tour from Spain is worth it, the answer is yes—especially if you choose a route that matches your available days. The closest introduction is usually Tangier and its surrounding region. A journey to the famous Sahara dunes needs several nights, not just a free afternoon.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Think about the kind of memories you want: a sea crossing and lunch in Tangier, photos in the blue streets of Chefchaouen, a guided walk in Fes, or a night beneath desert stars. They are all good ideas, but they belong to different travel plans. Start with one main experience, then add stops that sit naturally along the route.</p>
+<FeatureCards items={[["Closest city break", "Tangier is a popular first stop after a Strait crossing."], ["A good long route", "Ten days offers room for northern cities, the Sahara and Marrakech."], ["Passport first", "Entry depends on nationality; a Spanish DNI alone is not accepted."], ["Ferry arrival", "Tangier Ville and Tangier Med are not the same terminal."]]}/>
+<CompareTable headings={["Time in Morocco", "Best route idea", "What to expect"]} rows={[["1 day", "Tangier city introduction", "Historic streets, lunch and viewpoints; return timing matters"], ["2–3 days", "Tangier + a northern highlight", "A slower city break or Chefchaouen overnight"], ["4–5 days", "Tangier, Tetouan and Chefchaouen", "Northern culture without a major cross-country drive"], ["7 days", "North + Fes", "Medinas, mountains and guided sightseeing"], ["10–14 days", "Tangier to Sahara and Marrakech", "A wider journey with several different landscapes"]]}/>
+  </SectionFrame>;
+}

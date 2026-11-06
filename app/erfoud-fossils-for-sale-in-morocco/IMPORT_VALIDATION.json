@@ -1,0 +1,19 @@
+{
+  "typescript_and_tsx_files": 32,
+  "syntax_check": "passed using installed TypeScript parser",
+  "unused_imports_found": 0,
+  "missing_relative_imports": 0,
+  "imported_icon_names": [
+    "ArrowRightIcon",
+    "CheckCircleIcon",
+    "MapPinIcon",
+    "LightBulbIcon"
+  ],
+  "internal_link_count": 22,
+  "internal_page_count": 17,
+  "morocco_link_count": 1,
+  "toc_count": 25,
+  "image_illustration_placements": 12,
+  "source_photo_urls": "moorish tour owned blog page",
+  "full_project_build": "not run - website source/dependencies unavailable"
+}

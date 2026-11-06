@@ -1,0 +1,35 @@
+# Moorish Tour
+
+> Local Morocco travel agency offering private tours, guided itineraries, and Sahara Desert experiences.
+
+Moorish Tour helps travelers plan Morocco trips, including Marrakech desert tours, Morocco multi-day journeys, and experiences around Merzouga. Find verified trip pages, local advice, and direct contact information below.
+
+## Main pages
+
+- [About Moorish Tour](https://moorishtour.com/about/): Meet our local Morocco travel team.
+- [Contact Moorish Tour](https://moorishtour.com/contact/): Request help planning and booking a Morocco trip.
+- [All Morocco tours](https://moorishtour.com/tour/): Explore desert tours and multi-day Morocco itineraries.
+- [Morocco travel blog](https://moorishtour.com/blog/): Browse destination guides and practical travel advice.
+- [Morocco travel activities](https://moorishtour.com/activity/): Learn about camel treks, quad biking and local experiences.
+
+## Tours and activities
+
+- [Marrakech to Merzouga desert tour](https://moorishtour.com/tour/3-days-desert-tour-from-marrakech-to-merzouga/): Three-day itinerary from Marrakech to the Sahara.
+- [Ten-day Morocco tour from Tangier](https://moorishtour.com/tour/10-days-in-morocco-tour-from-tangier/): Travel itinerary starting in Tangier.
+- [Morocco desert camel trekking](https://moorishtour.com/activity/camel-trekking-in-the-desert/): Camel trekking in the Sahara desert.
+- [Quad biking in Morocco](https://moorishtour.com/activity/quad-biking-in-marrakech-and-merzouga/): Quad biking experiences near Marrakech and Merzouga.
+
+## Morocco travel guides
+
+- [Morocco tours from Spain](https://moorishtour.com/morocco-tours-from-spain/): Travel advice for travelers coming from Spain.
+- [Tour ideas for three days in Morocco](https://moorishtour.com/3-days-in-morocco-tours-ideas-and-travel-tips/): Advice for planning a short Morocco trip.
+
+## Site information
+
+- [XML sitemap](https://moorishtour.com/sitemap.xml): The website page index.
+- [Robots.txt](https://moorishtour.com/robots.txt): Crawler access rules.
+- [Social profiles](https://moorishtour.com/contact/): Links to official social accounts.
+
+Official contact: +212628812520 | moorishtour@gmail.com
+
+This page is an informational website index, not a crawler permission or model-training policy.

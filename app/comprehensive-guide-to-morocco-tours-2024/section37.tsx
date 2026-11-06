@@ -1,0 +1,9 @@
+import { SectionFrame, Checklist } from "./ArticleElements";
+export default function Section37(){
+return <SectionFrame id="entry-safety-requirements" label="TRAVEL BASICS" title="Passports, Visas, Safety and Travel Advisories" index={37}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Entry requirements depend on your nationality, passport and reason for travel. <strong className="font-extrabold text-[#102043]">U.S. passport holders can generally make tourist visits of up to 90 days without a visa</strong>, according to U.S. government information checked in October 2026. Many European visitors also have visa-free tourist access, but the specific rules and required passport validity should always be confirmed before departure.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Use the official travel guidance for your own nationality to check passport validity, visa rules, medication restrictions, health advice and current safety notices. Requirements can change and an old article title containing &apos;2024&apos; is not an entry document. Consider travel insurance that covers your actual activities, including trekking or desert excursions if applicable.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Be cautious in busy places, protect important documents and take normal precautions with valuables. For remote journeys, share your route and stay hydrated. Follow local guidance for outdoor activities, and avoid assuming that an activity is safe simply because it is advertised to tourists.</p>
+<Checklist items={["Check official entry rules for your nationality", "Read the latest government travel advisory", "Carry adequate travel and medical insurance", "Confirm any medication documentation needed", "Save emergency numbers and accommodation details", "Ask how the tour handles weather or route changes"]}/>
+</SectionFrame>;
+}

@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, CompareTable, FeatureCards } from "./ArticleElements";
+export default function Section26(){
+return <SectionFrame id="private-vs-group-morocco" label="CHOOSING A TOUR" title="Private Tours, Small Groups and Independent Travel Compared" index={26}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">There is no single best way to travel around Morocco. A private tour offers more flexibility in stop lengths, accommodation choice and walking pace. A small-group tour can make planning simpler and may be a good fit for travelers happy to follow a shared schedule. Independent travel suits visitors who enjoy research and are comfortable arranging transport in different regions.</p>
+<CompareTable headings={["Travel style", "Main benefit", "Best question to ask"]} rows={[["Private guided tour", "More route flexibility and personal pace", "What can be changed after booking?"], ["Small-group tour", "Shared costs and planned departures", "How many travelers and what is fixed?"], ["City-based day trips", "Less moving between hotels", "How much driving does the excursion involve?"], ["Independent travel", "Maximum control over daily choices", "Can I manage transfers and remote areas comfortably?"]]}/>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The written details matter more than the label. Ask whether a private driver also acts as a licensed city guide, whether the same vehicle is used throughout, and which activities are optional. Read the <Link href="/tour/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">Moorish Tour packages overview</Link> and request a precise schedule before deciding.</p>
+<FeatureCards items={[["For families", "Check car seats, room layouts and reasonable daily driving"], ["For couples", "Ask about quieter stays and unhurried shared experiences"], ["For friends", "Agree on sightseeing pace and room arrangements before booking"], ["For solo travelers", "Ask about single-room costs and local guide arrangements"]]}/>
+</SectionFrame>;
+}

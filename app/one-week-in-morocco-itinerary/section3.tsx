@@ -1,0 +1,14 @@
+import { ArticleSection, GuideTable, TravelQuote } from "./ArticleElements";
+import Link from "next/link";
+
+export default function Section3() {
+  return (
+    <ArticleSection id="which-one-week-morocco-route-should-you-choose" label="Compare Travel Styles" title="Which One-Week Morocco Route Should You Choose?">
+      <p className="mt-5 text-lg leading-8 text-gray-700">There is no single best itinerary for every traveler. Some people want the golden dunes and a night in the Sahara, while others prefer old cities, mountain walks or a quiet coastal holiday. Before booking a <strong className="font-bold text-slate-900">Morocco 7-day tour</strong>, choose the route that fits the things you most want to experience, and pay attention to where it starts and ends.</p>
+      <GuideTable headings={["One-week route", "Best experiences", "Good for", "Travel pace"]} rows={[["Marrakech → Sahara → Fes", "Atlas Mountains, Ait Ben Haddou, Merzouga, Fes", "First-time visitors who want desert and culture", "Active, with long drives"], ["Marrakech desert round trip", "Marrakech, Dades, Merzouga, southern valleys", "Travelers flying in and out of Marrakech", "Active, with return journey"], ["Marrakech + Atlas + Essaouira", "City, countryside, Atlantic coast, day trips", "Families and relaxed travelers", "Comfortable and flexible"], ["Casablanca → Rabat → Chefchaouen → Fes", "Northern culture, blue town, imperial history", "City lovers and cultural travelers", "Moderate, without Sahara"]]} />
+      <p className="mt-5 text-lg leading-8 text-gray-700">The first two choices are usually best for visitors whose main dream is sleeping in the Sahara. They involve many kilometers on the road and work well when the scenic drive is part of the fun. For families with young children, people who do not enjoy long transfers, or travelers who want a slower holiday, staying near Marrakech with trips to the Atlas and Essaouira may be much more enjoyable.</p>
+      <p className="mt-5 text-lg leading-8 text-gray-700">You can view our <Link href="/all-morocco-tours-packages/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">Morocco tour packages</Link> or ask us to customize a <Link href="/tour/morocco-itinerary-7-days-from-marrakech/" className="font-semibold text-amber-700 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-800">7-day Morocco itinerary</Link> according to your start city, hotel preferences and number of travelers. We can suggest the order of destinations before you reserve flights and accommodation.</p>
+      <TravelQuote>Start with your two must-see places, then let the route grow around them. Seven days should feel like a holiday, not a race.</TravelQuote>
+    </ArticleSection>
+  );
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "comprehensive-guide-to-morocco-tours-2024",
+  "route": "app/comprehensive-guide-to-morocco-tours-2024/",
+  "sections": 42,
+  "word_count_markdown": 8297,
+  "faqs": 20,
+  "images_local_bundled": 11,
+  "image_placements": 16,
+  "internal_link_placements": 29,
+  "unique_internal_urls": 18,
+  "place_hover_cards": [
+    [
+      "Casablanca",
+      "casablanca"
+    ],
+    [
+      "Tangier",
+      "tangier"
+    ],
+    [
+      "Marrakech",
+      "marrakech"
+    ],
+    [
+      "Fes",
+      "fes"
+    ],
+    [
+      "Erfoud",
+      "erfoud"
+    ],
+    [
+      "Chefchaouen",
+      "chefchaouen"
+    ],
+    [
+      "Rabat",
+      "rabat"
+    ],
+    [
+      "Meknes",
+      "meknes"
+    ],
+    [
+      "High Atlas",
+      "high-atlas"
+    ],
+    [
+      "Ait Ben Haddou",
+      "ait-ben-haddou"
+    ],
+    [
+      "Ouarzazate",
+      "ouarzazate"
+    ],
+    [
+      "Todra Gorge",
+      "todra-gorge"
+    ],
+    [
+      "Dades Valley",
+      "dades-valley"
+    ],
+    [
+      "Merzouga",
+      "merzouga"
+    ],
+    [
+      "Rissani",
+      "rissani"
+    ],
+    [
+      "Essaouira",
+      "essaouira"
+    ]
+  ],
+  "morocco_country_body_links": 1,
+  "source_files_parsed": 49,
+  "parse_or_unused_import_errors": [],
+  "toc_sections": 42,
+  "toc_anchors_match": true,
+  "external_article_links": 0,
+  "external_article_images": 0,
+  "original_publication_date": "2024-06-16",
+  "updated": "2026-10-13",
+  "full_site_nextjs_build": false
+}

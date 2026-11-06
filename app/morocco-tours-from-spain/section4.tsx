@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame, FeatureCards } from "./ArticleElements";
+export default function Section4(){
+  return <SectionFrame id={"morocco-tours-by-plane-from-spain"} label={"FLYING IN"} title={"Flying to Morocco from Madrid, Barcelona, Málaga or Seville"} index={4}>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">For longer tours, flying can be the simpler start. Rather than spending much of the first day reaching a ferry terminal, you may prefer to land close to the cities you want to visit. Depending on the season and available services, flights may connect Spanish airports with Tangier, Fes, Marrakech, Casablanca and other destinations. Not every city pair flies every day, and routes can change.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">If the Sahara is your main goal, consider whether flying into Fes or Marrakech fits the road journey better than making a return trip to Tangier. If you want the blue city, northern coast and old medinas, a Tangier arrival is easy to understand. A Casablanca arrival can suit a longer imperial-cities route, including the <Link href="/exploring-trusted-casablanca-travel-agency/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 hover:text-amber-950">Casablanca travel guide</Link>.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Check arrival time as well as ticket price. A cheap flight landing late at night may mean an extra hotel night before sightseeing can start. Also compare the cost of luggage, airport transfers and different departure airports before deciding that one ticket is the best value.</p>
+<FeatureCards items={[["Land in Tangier", "A sensible start for the north, Chefchaouen and Fes."], ["Land in Fes", "A useful base for imperial-city visits or a southbound route."], ["Land in Marrakech", "Good for a city break or a desert tour from the south."], ["Land in Casablanca", "Convenient for longer routes linking several cities."]]}/>
+  </SectionFrame>;
+}

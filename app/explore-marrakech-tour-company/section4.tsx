@@ -1,0 +1,8 @@
+import { SectionFrame, InfoPanel } from "./ArticleElements";
+
+export default function Section4(){return <SectionFrame id="best-marrakech-guided-city-attractions" index={4} label="BEAUTIFUL CITY STOPS" title="The Best Places to See on a Guided Marrakech City Tour">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A good city tour feels like a story, not a race. Bahia Palace introduces visitors to carved ceilings, colorful tilework and peaceful courtyards. The old medina brings that history into the present, with narrow lanes filled with workshops, daily shopping and neighborhood life. These places are close enough to combine, but allow room for walking and unexpected discoveries.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Depending on your interests, you might also visit the Saadian Tombs, El Badi Palace or the Ben Youssef Madrasa. Some visitors love architecture and want to understand the details. Others prefer watching artisans at work, taking photographs or learning how families shop for daily food. Tell the guide what matters to you before you start so the visit feels personal.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">The Majorelle Garden is another popular stop, but it is away from some of the main old-city walking routes and can require advance ticket planning. A shorter guided visit may be better without it. Keep your day comfortable by choosing a few meaningful places rather than trying to see every famous attraction in a single morning.</p>
+<InfoPanel title="Useful tip"><p>Check the latest opening hours, admission rules and ticket arrangements for monuments and gardens. They can change, especially around religious holidays.</p></InfoPanel>
+</SectionFrame>;}

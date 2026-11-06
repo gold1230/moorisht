@@ -1,0 +1,32 @@
+{
+  "file_count": 50,
+  "typescriptFiles": 36,
+  "mainSections": 29,
+  "photoPlacements": 16,
+  "bundledLocalWebpImages": 10,
+  "faqItems": 18,
+  "tableOfContentsLinks": 29,
+  "contextualBodyLinks": 22,
+  "countryLinkCount": 1,
+  "destinationHoverIds": [
+    "tangier",
+    "merzouga",
+    "ait-ben-haddou",
+    "marrakech",
+    "essaouira",
+    "chefchaouen",
+    "tetouan",
+    "fes"
+  ],
+  "duplicateHoverCards": 0,
+  "unusedImportBindings": [],
+  "parseErrors": [],
+  "unresolvedLocalImports": [],
+  "brokenTableOfContents": [],
+  "heroicons": [
+    "ArrowRightIcon",
+    "CheckCircleIcon",
+    "MapPinIcon",
+    "LightBulbIcon"
+  ]
+}

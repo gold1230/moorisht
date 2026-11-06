@@ -1,0 +1,45 @@
+{
+  "audit_date": "2026-10-14",
+  "runtime": "nodejs",
+  "node_runtime_opengraph_files": 8,
+  "typescript": {
+    "result": "pass",
+    "errors": 0
+  },
+  "eslint": {
+    "result": "pass",
+    "errors": 0
+  },
+  "nextjs_app_router_exports": {
+    "result": "pass",
+    "modules": 126
+  },
+  "routes": {
+    "result": "pass",
+    "page_routes": 122,
+    "blog_entries": 33,
+    "tour_entries": 17,
+    "destinations": 30,
+    "places": 45,
+    "static_links_checked": 1253,
+    "json_images_checked": 125
+  },
+  "source": {
+    "result": "pass",
+    "source_files": 1109,
+    "local_imports_checked": 3069,
+    "heroicons_checked": 573,
+    "edge_runtime_references": 0
+  },
+  "open_graph": {
+    "result": "pass",
+    "images_rendered": 8,
+    "width": 1200,
+    "height": 630
+  },
+  "full_production_build": {
+    "result": "not_verified",
+    "reason": "Linux environment does not have the Linux Next.js SWC native binary; original dependencies were Windows-native, npm download not available"
+  },
+  "deployment_gate": "npm ci && npm run check:deploy && npm run build"
+}

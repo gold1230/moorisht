@@ -1,0 +1,33 @@
+{
+  "slug": "moroccan-food-tour-the-tasty-heart-of-morocco",
+  "contextual_links": 29,
+  "unique_destinations": 16,
+  "link_targets": {
+    "/all-morocco-tours-packages/": 5,
+    "/morocco-wonders-tour-the-ultimate-morocco-tour/": 2,
+    "/tour/3-days-in-marrakech-a-simple-and-fun-plan-for-your-trip/": 3,
+    "/marrakech-desert-tours/": 1,
+    "/one-week-in-morocco-itinerary/": 3,
+    "/locations/marrakech/": 1,
+    "/3-days-in-morocco-tours-ideas-and-travel-tips/": 2,
+    "/morocco-fes-desert-tours/": 1,
+    "/erfoud-sahara-tours-4x4-desert-vehicles/": 1,
+    "/tour/3-days-desert-tour-from-marrakech-to-merzouga/": 2,
+    "/plan-your-morocco-tour/": 2,
+    "/contact/": 2,
+    "/tour/7-day-morocco-itinerary/": 1,
+    "/tour/12-days-morocco-tour-from-casablanca-to-marrakech/": 1,
+    "/ultimate-guide-what-to-wear-in-marrakech-morocco/": 1,
+    "/top-5-best-merzouga-luxury-desert-camps/": 1
+  },
+  "first_placehovercard_mentions": [
+    "marrakech",
+    "fes",
+    "merzouga",
+    "essaouira",
+    "agadir",
+    "erfoud",
+    "ouarzazate",
+    "casablanca"
+  ]
+}

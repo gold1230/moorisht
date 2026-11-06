@@ -1,0 +1,10 @@
+import Link from "next/link";
+import {SectionFrame,Checklist,CompareTable} from "./ArticleElements";
+import {tables} from "./tables";
+export default function Section23(){return <SectionFrame id="best-time-luxury-trip-morocco" index={23} label="PICK THE RIGHT SEASON" title="Best Time for Luxury Travel in Morocco">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Spring and autumn are often the most comfortable seasons for journeys that combine Marrakech, the Atlas Mountains and the Sahara. Days are generally more pleasant for sightseeing than at the height of summer, although the weather can still vary widely by region and altitude. Popular travel dates can mean higher demand for special hotels and desert camps, so planning ahead is helpful.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Summer can work for beach stays, northern destinations and some mountain areas, but inland cities and the Sahara can be extremely hot. If your dream holiday focuses on Merzouga, carefully consider daily temperatures and activity times. Winter offers a different atmosphere with cooler city mornings, cold desert nights and occasional snow or weather delays on mountain roads. A luxury camp is not guaranteed to feel warm unless its winter facilities suit your needs.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Whatever the season, choose your itinerary for actual comfort. A sheltered afternoon and a relaxed pool day may be better than a midday desert activity in July. Our <Link href="/ultimate-guide-what-to-wear-in-marrakech-morocco/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">Marrakech clothing and packing guide</Link> can help you think about layers for cities, mountains and dunes.</p>
+<Checklist items={["Light layers for spring and autumn", "Sun protection and water for hot days", "Warm evening clothing for the Sahara", "Comfortable walking shoes for medinas and valleys"]}/>
+<CompareTable headings={tables.seasons.headings} rows={tables.seasons.rows}/>
+</SectionFrame>;}

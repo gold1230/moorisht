@@ -1,0 +1,10 @@
+export { imlilLocation } from "./imlil";
+export { agdezLocation } from "./agdez";
+export { tamegrouteLocation } from "./tamegroute";
+export { ouzoudWaterfallsLocation } from "./ouzoud-waterfalls";
+export { zizValleyLocation } from "./ziz-valley";
+export { kasbahTadlaLocation } from "./kasbah-tadla";
+export { imilchilLocation } from "./imilchil";
+export { errachidiaLocation } from "./errachidia";
+export { aitAttaVillagesLocation } from "./ait-atta-villages";
+export { demnateLocation } from "./demnate";

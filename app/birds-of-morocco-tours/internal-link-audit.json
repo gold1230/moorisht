@@ -1,0 +1,51 @@
+{
+  "article_internal_links": {
+    "/morocco/": 1,
+    "/bird-watching-tours-morocco/": 2,
+    "/morocco-general-information-for-travelers/": 2,
+    "/city-of-merzouga-easy-travel-guide/": 2,
+    "/erfoud-sahara-tours-4x4-desert-vehicles/": 3,
+    "/marrakech-desert-tours/": 3,
+    "/one-week-in-morocco-itinerary/": 1,
+    "/tour/3-days-desert-tour-from-marrakech-to-merzouga/": 1,
+    "/morocco-wonders-tour-the-ultimate-morocco-tour/": 1,
+    "/all-morocco-tours-packages/": 2,
+    "/plan-your-morocco-tour": 2,
+    "/morocco-fes-desert-tours/": 1,
+    "/errachidia-desert-tours/": 1,
+    "/ultimate-guide-what-to-wear-in-marrakech-morocco/": 1,
+    "/top-5-best-merzouga-luxury-desert-camps/": 1,
+    "/luxury-travel-in-morocco/": 1,
+    "/moroccan-food-tour-the-tasty-heart-of-morocco/": 1,
+    "/activity/camel-trekking-in-the-desert/": 1,
+    "/3-days-in-morocco-tours-ideas-and-travel-tips/": 1,
+    "/tour/": 2,
+    "/contact/": 1
+  },
+  "total_contextual_link_occurrences": 31,
+  "unique_internal_destinations": 21,
+  "morocco_permalink_link_occurrences": 1,
+  "first_mention_hovercards": {
+    "high-atlas-mountains": 1,
+    "merzouga": 1,
+    "agadir": 1,
+    "erg-chebbi": 1,
+    "marrakech": 1,
+    "fes": 1,
+    "ouarzazate": 1,
+    "dades-valley": 1,
+    "essaouira": 1,
+    "middle-atlas": 1,
+    "ifrane": 1,
+    "casablanca": 1
+  },
+  "faq_count": 14,
+  "table_of_contents_count": 58,
+  "main_sections": 13,
+  "notes": [
+    "Each local JSX/TSX file imports its generated dependencies using ./ paths.",
+    "Hover cards are rendered only once per supported location.",
+    "The only article link to /morocco/ appears on the first natural occurrence in the introduction.",
+    "Existing site shared components and static image keep their original @/ paths."
+  ]
+}

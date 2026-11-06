@@ -1,0 +1,8 @@
+import {SectionFrame} from "./ArticleElements";
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section6(){return <SectionFrame id="orthoceras-crinoids-and-fossil-rich-decorative-stone" index={6} label="BEYOND AMMONITES" title="Orthoceras, Crinoids and Fossil-Rich Decorative Stone">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Many visitors notice black stone objects filled with pale, straight shapes. The shapes are often fossilized shells of ancient cephalopods. Shops commonly call them “Orthoceras,” although that word can be used loosely in trade and may not provide a precise genus identification. If the exact science matters to you, ask what has actually been identified and what is only a familiar shop name.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Crinoids, sometimes called sea lilies, are also marine animals. Many fossil pieces preserve their stems as stacked circular segments, giving polished stone a beautiful repeating pattern. Some decorative slabs contain several kinds of fossil fragments together. The result can be striking on a small tray, tabletop or wall piece.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Decorative cutting and polishing are local crafts, but the finish can hide repairs, joined sections or filler. Examine the back, edges and joints. If the object is a table, basin or large sculpture, ask about its weight and how the piece will be supported at home. A beautiful item is only a good purchase when you know how to use and transport it safely.</p>
+<ArticlePhoto name="types"/>
+</SectionFrame>;}

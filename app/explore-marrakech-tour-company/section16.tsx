@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { SectionFrame } from "./ArticleElements";
+
+import ArticlePhoto from "./ArticlePhoto";
+export default function Section16(){return <SectionFrame id="marrakech-hotels-riads-desert-camps" index={16} label="WHERE YOU SLEEP" title="Riads, Hotels and Desert Camps: Finding the Right Stay">
+<p className="mt-5 text-[17px] leading-8 text-slate-700">A riad can be one of the loveliest parts of a Marrakech stay. Many have a calm courtyard, traditional decoration and rooms arranged around a quiet interior space. They offer a break from the busy streets outside. However, riads vary widely in stair access, room size, air-conditioning and how close a vehicle can get to the door. If you need step-free access or have heavy luggage, ask before choosing.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">Hotels outside the medina may offer more vehicle access or familiar facilities, depending on the property. This can be useful for groups or families who want different kinds of room arrangements. The right accommodation is the one that helps you rest comfortably and enjoy the next day. For a wider view of special stays, see our <Link href="/luxury-travel-in-morocco/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">luxury travel in Morocco guide</Link>.</p>
+<p className="mt-5 text-[17px] leading-8 text-slate-700">On a longer Sahara route, desert camps range from simple setups to more comfortable tents. The phrase &apos;luxury camp&apos; does not guarantee every amenity. Ask about private bathrooms, bedding, meals, heating, electricity and how you reach camp. Our <Link href="/top-5-best-merzouga-luxury-desert-camps/" className="font-semibold text-amber-800 underline decoration-amber-300 underline-offset-4 transition hover:text-amber-950">Merzouga luxury desert camp guide</Link> explains the questions worth asking before you book.</p>
+<ArticlePhoto name="camp"/>
+</SectionFrame>;}
